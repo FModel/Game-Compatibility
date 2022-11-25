@@ -15,3 +15,9 @@ This repo will contain a list of games that have been verified to work with FMod
 | [Tower of Fantasy](https://store.steampowered.com/app/2064650/Tower_of_Fantasy/) | Hotta | GAME_TowerOfFantasy |
 | [State of Decay 2](https://store.steampowered.com/app/495420/State_of_Decay_2_Juggernaut_Edition/) | StateOfDecay2 | GAME_StateOfDecay2 |
 | [Ready or Not](https://store.steampowered.com/app/1144200/Ready_or_Not/) | ReadyOrNot | GAME_ReadyOrNot |
+
+## Not completely supported / Have issues
+| Game | Project Name | Version | Issue |
+| --- | --- | --- | --- |
+| [Rumbleverse](https://store.epicgames.com/en-US/p/rumbleverse) | Rumbleverse | GAME_UE4_27 | Some USoundWave assets error out |
+| [HYENAS](https://store.steampowered.com/app/1989910/HYENAS/) | keaton | GAME_UE4_27 | Every asset causes a CLR crash |
