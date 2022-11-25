@@ -14,3 +14,4 @@ This repo will contain a list of games that have been verified to work with FMod
 | [Dead by Daylight](https://store.epicgames.com/en-US/p/dead-by-daylight) | DeadByDaylight | GAME_UE4_27 |
 | [Tower of Fantasy](https://store.steampowered.com/app/2064650/Tower_of_Fantasy/) | Hotta | GAME_TowerOfFantasy |
 | [State of Decay 2](https://store.steampowered.com/app/495420/State_of_Decay_2_Juggernaut_Edition/) | StateOfDecay2 | GAME_StateOfDecay2 |
+| [Ready or Not](https://store.steampowered.com/app/1144200/Ready_or_Not/) | ReadyOrNot | GAME_ReadyOrNot |
