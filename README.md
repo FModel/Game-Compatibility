@@ -10,3 +10,4 @@ This repo will contain a list of games that have been verified to work with FMod
 | [Minecraft Dungeons](https://store.steampowered.com/app/1672970/Minecraft_Dungeons/) | Dungeons | GAME_UE4_22 |
 | [Borderlands 3](https://store.epicgames.com/en-US/p/borderlands-3) | OakGame | GAME_Borderlands3 |
 | [Splitgate](https://store.steampowered.com/app/677620/Splitgate/) | PortalWars | GAME_Splitgate |
+| [PUBG: BATTLEGROUNDS](https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/) | TslGame | GAME_PlayerUnknownsBattlegrounds |
