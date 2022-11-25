@@ -11,3 +11,5 @@ This repo will contain a list of games that have been verified to work with FMod
 | [Borderlands 3](https://store.epicgames.com/en-US/p/borderlands-3) | OakGame | GAME_Borderlands3 |
 | [Splitgate](https://store.steampowered.com/app/677620/Splitgate/) | PortalWars | GAME_Splitgate |
 | [PUBG: BATTLEGROUNDS](https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/) | TslGame | GAME_PlayerUnknownsBattlegrounds |
+| [Dead by Daylight](https://store.epicgames.com/en-US/p/dead-by-daylight) | DeadByDaylight | GAME_UE4_27 |
+| [Tower of Fantasy](https://store.steampowered.com/app/2064650/Tower_of_Fantasy/) | Hotta | GAME_TowerOfFantasy |
