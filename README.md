@@ -34,6 +34,8 @@ Make an [issue](https://github.com/FModel/Game-Compatibility/issues/new/choose),
 | [The Cycle](https://store.epicgames.com/en-US/p/thecycle) | Prospect | GAME_UE4_27 |
 | [Kitty May Cry](https://store.steampowered.com/app/2123100/Kitty_May_Cry/) | KittyMayCry | GAME_UE5_0 |
 | [BIGFOOT](https://store.steampowered.com/app/509980/BIGFOOT/) | Bigfoot | GAME_UE4_26 |
+| [Little Nightmares](https://store.steampowered.com/app/424840/Little_Nightmares/) | Atlas | GAME_UE4_13 |
+| [Little Nightmares II](https://store.steampowered.com/app/860510/Little_Nightmares_II/) | Helios | GAME_UE4_24 |
 
 ### Not completely supported / Have issues
 | Game | Project Name | Version | Issue |
