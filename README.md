@@ -1,6 +1,10 @@
 # Game Compatibility
 This repo will contain a list of games that have been verified to work with FModel and CUE4Parse, provided the right settings.
 
+# Have a game that has known issues?
+Make an [issue](https://github.com/FModel/Game-Compatibility/issues/new/choose), and let us know!
+
+### Compatible and verified working (at the time of addition)
 | Game | Project Name | Version | Mappings File |
 | --- | --- | --- | --- |
 | [Kid A Mnesia: Exhibition](https://store.epicgames.com/en-US/p/kid-a-mnesia-exhibition) | Paperbag | GAME_UE4_26 |
@@ -29,8 +33,9 @@ This repo will contain a list of games that have been verified to work with FMod
 | [Battle Breakers](https://store.epicgames.com/en-US/p/battle-breakers) | WorldExplorers | GAME_UE4_24 |
 | [The Cycle](https://store.epicgames.com/en-US/p/thecycle) | Prospect | GAME_UE4_27 |
 | [Kitty May Cry](https://store.steampowered.com/app/2123100/Kitty_May_Cry/) | KittyMayCry | GAME_UE5_0 |
+| [BIGFOOT](https://store.steampowered.com/app/509980/BIGFOOT/) | Bigfoot | GAME_UE4_26 |
 
-## Not completely supported / Have issues
+### Not completely supported / Have issues
 | Game | Project Name | Version | Issue |
 | --- | --- | --- | --- |
 | [HYENAS](https://store.steampowered.com/app/1989910/HYENAS/) | keaton | GAME_UE4_27 | Every asset causes a CLR crash |
