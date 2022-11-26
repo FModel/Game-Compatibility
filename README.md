@@ -20,11 +20,11 @@ This repo will contain a list of games that have been verified to work with FMod
 | [Hello Neighbor](https://store.steampowered.com/app/521890/Hello_Neighbor/) | HelloNeighbor | GAME_UE4_20 |
 | [Hello Neighbor 2](https://store.steampowered.com/app/1321680/Hello_Neighbor_2/) | HelloNeighbor2 | GAME_UE4_27 |
 | [Petals](https://petalsgame.itch.io/petals) | Petals | GAME_UE5_0 | [Mapping](https://cdn.discordapp.com/attachments/1032869717708378122/1045910129687678997/Mappings.usmap) |
+| [Rumbleverse](https://store.epicgames.com/en-US/p/rumbleverse) | Rumbleverse | GAME_ReadyOrNot |
 
 ## Not completely supported / Have issues
 | Game | Project Name | Version | Issue |
 | --- | --- | --- | --- |
-| [Rumbleverse](https://store.epicgames.com/en-US/p/rumbleverse) | Rumbleverse | GAME_UE4_27 | Some USoundWave assets error out |
 | [HYENAS](https://store.steampowered.com/app/1989910/HYENAS/) | keaton | GAME_UE4_27 | Every asset causes a CLR crash |
 | [Divine Knockout](https://store.steampowered.com/app/1294660/Divine_Knockout_DKO/) | DivineKnockout | GAME_UE4_27 | Meshes don't load |
 | [Apex Legends Mobile](https://play.google.com/store/apps/details?id=com.ea.gp.apexlegendsmobilefps) | AClient | GAME_ApexLegendsMobile | Meshes don't load |
