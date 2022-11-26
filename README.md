@@ -25,6 +25,7 @@ This repo will contain a list of games that have been verified to work with FMod
 | [Paragon: The Overprime](https://store.epicgames.com/en-US/p/paragon-the-overprime-0bca60) | Overprime | GAME_UE4_27 |
 | [Tetris Effect](https://store.steampowered.com/app/1003590/Tetris_Effect_Connected/) | TetrisEffect | GAME_UE4_26 |
 | [Core](https://store.epicgames.com/en-US/p/core) | Platform | GAME_UE4_26 |
+| [Rogue Company](https://store.epicgames.com/en-US/p/rogue-company) | RogueCompany | GAME_RogueCompany |
 
 ## Not completely supported / Have issues
 | Game | Project Name | Version | Issue |
