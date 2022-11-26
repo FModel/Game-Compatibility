@@ -43,3 +43,4 @@ Make an [issue](https://github.com/FModel/Game-Compatibility/issues/new/choose),
 | [Apex Legends Mobile](https://play.google.com/store/apps/details?id=com.ea.gp.apexlegendsmobilefps) | AClient | GAME_ApexLegendsMobile | Meshes don't load |
 | [QQ](https://play.google.com/store/apps/details?id=com.tencent.mobileqq) | UE4 | GAME_UE4_26 | FPakInfo modification |
 | [Video Horror Society](https://store.epicgames.com/en-US/p/vhs) | Game | GAME_ReadyOrNot | Alternate pak GUIDs with keys |
+| [Deliver Us The Moon](https://store.steampowered.com/app/428660/Deliver_Us_The_Moon/) | MoonMan | GAME_UE4_26 | Asset Registry invalid FString length |
