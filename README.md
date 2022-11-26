@@ -23,6 +23,7 @@ This repo will contain a list of games that have been verified to work with FMod
 | [Rumbleverse](https://store.epicgames.com/en-US/p/rumbleverse) | Rumbleverse | GAME_ReadyOrNot |
 | [Dauntless](https://store.epicgames.com/en-US/p/dauntless) | Archon | GAME_Dauntless |
 | [Paragon: The Overprime](https://store.epicgames.com/en-US/p/paragon-the-overprime-0bca60) | Overprime | GAME_UE4_27 |
+| [Tetris Effect](https://store.steampowered.com/app/1003590/Tetris_Effect_Connected/) | TetrisEffect | GAME_UE4_26 |
 
 ## Not completely supported / Have issues
 | Game | Project Name | Version | Issue |
