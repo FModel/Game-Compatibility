@@ -27,6 +27,7 @@ This repo will contain a list of games that have been verified to work with FMod
 | [Core](https://store.epicgames.com/en-US/p/core) | Platform | GAME_UE4_26 |
 | [Rogue Company](https://store.epicgames.com/en-US/p/rogue-company) | RogueCompany | GAME_RogueCompany |
 | [Battle Breakers](https://store.epicgames.com/en-US/p/battle-breakers) | WorldExplorers | GAME_UE4_24 |
+| [The Cycle](https://store.epicgames.com/en-US/p/thecycle) | Prospect | GAME_UE4_27 |
 
 ## Not completely supported / Have issues
 | Game | Project Name | Version | Issue |
