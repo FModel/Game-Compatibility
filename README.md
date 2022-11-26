@@ -22,6 +22,7 @@ This repo will contain a list of games that have been verified to work with FMod
 | [Petals](https://petalsgame.itch.io/petals) | Petals | GAME_UE5_0 | [Mapping](https://cdn.discordapp.com/attachments/1032869717708378122/1045910129687678997/Mappings.usmap) |
 | [Rumbleverse](https://store.epicgames.com/en-US/p/rumbleverse) | Rumbleverse | GAME_ReadyOrNot |
 | [Dauntless](https://store.epicgames.com/en-US/p/dauntless) | Archon | GAME_Dauntless |
+| [Paragon: The Overprime](https://store.epicgames.com/en-US/p/paragon-the-overprime-0bca60) | Overprime | GAME_UE4_27 |
 
 ## Not completely supported / Have issues
 | Game | Project Name | Version | Issue |
