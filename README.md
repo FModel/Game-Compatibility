@@ -19,7 +19,7 @@ This repo will contain a list of games that have been verified to work with FMod
 | [eFootball 2023](http://store.steampowered.com/app/1665460/eFootball_2023/) | PesConsole | GAME_UE4_26 |
 | [Hello Neighbor](https://store.steampowered.com/app/521890/Hello_Neighbor/) | HelloNeighbor | GAME_UE4_20 |
 | [Hello Neighbor 2](https://store.steampowered.com/app/1321680/Hello_Neighbor_2/) | HelloNeighbor2 | GAME_UE4_27 |
-| [Petals](https://petalsgame.itch.io/petals) | Petals | GAME_UE5_0 | [Mapping](https://cdn.discordapp.com/attachments/1032869717708378122/1045910129687678997/Mappings.usmap) |
+| [Petals](https://petalsgame.itch.io/petals) | Petals | GAME_UE5_0 | [Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/Petals/Mappings.usmap) |
 | [Rumbleverse](https://store.epicgames.com/en-US/p/rumbleverse) | Rumbleverse | GAME_ReadyOrNot |
 | [Dauntless](https://store.epicgames.com/en-US/p/dauntless) | Archon | GAME_Dauntless |
 | [Paragon: The Overprime](https://store.epicgames.com/en-US/p/paragon-the-overprime-0bca60) | Overprime | GAME_UE4_27 |
