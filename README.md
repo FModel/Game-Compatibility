@@ -1,8 +1,8 @@
 # Game Compatibility
 This repo will contain a list of games that have been verified to work with FModel and CUE4Parse, provided the right settings.
 
-| Game | Project Name | Version |
-| --- | --- | --- |
+| Game | Project Name | Version | Mappings File |
+| --- | --- | --- | --- |
 | [Kid A Mnesia: Exhibition](https://store.epicgames.com/en-US/p/kid-a-mnesia-exhibition) | Paperbag | GAME_UE4_26 |
 | [Fortnite](https://store.epicgames.com/en-US/p/fortnite) | FortniteGame | GAME_UE5_1 |
 | [Valorant](https://store.epicgames.com/en-US/p/valorant) | ShooterGame | GAME_Valorant |
@@ -19,6 +19,7 @@ This repo will contain a list of games that have been verified to work with FMod
 | [eFootball 2023](http://store.steampowered.com/app/1665460/eFootball_2023/) | PesConsole | GAME_UE4_26 |
 | [Hello Neighbor](https://store.steampowered.com/app/521890/Hello_Neighbor/) | HelloNeighbor | GAME_UE4_20 |
 | [Hello Neighbor 2](https://store.steampowered.com/app/1321680/Hello_Neighbor_2/) | HelloNeighbor2 | GAME_UE4_27 |
+| [Petals](https://petalsgame.itch.io/petals) | Petals | GAME_UE5_0 | [Mapping](https://cdn.discordapp.com/attachments/1032869717708378122/1045910129687678997/Mappings.usmap) |
 
 ## Not completely supported / Have issues
 | Game | Project Name | Version | Issue |
