@@ -24,6 +24,7 @@ This repo will contain a list of games that have been verified to work with FMod
 | [Dauntless](https://store.epicgames.com/en-US/p/dauntless) | Archon | GAME_Dauntless |
 | [Paragon: The Overprime](https://store.epicgames.com/en-US/p/paragon-the-overprime-0bca60) | Overprime | GAME_UE4_27 |
 | [Tetris Effect](https://store.steampowered.com/app/1003590/Tetris_Effect_Connected/) | TetrisEffect | GAME_UE4_26 |
+| [Core](https://store.epicgames.com/en-US/p/core) | Platform | GAME_UE4_26 |
 
 ## Not completely supported / Have issues
 | Game | Project Name | Version | Issue |
@@ -33,4 +34,3 @@ This repo will contain a list of games that have been verified to work with FMod
 | [Apex Legends Mobile](https://play.google.com/store/apps/details?id=com.ea.gp.apexlegendsmobilefps) | AClient | GAME_ApexLegendsMobile | Meshes don't load |
 | [QQ](https://play.google.com/store/apps/details?id=com.tencent.mobileqq) | UE4 | GAME_UE4_26 | FPakInfo modification |
 | [Video Horror Society](https://store.epicgames.com/en-US/p/vhs) | Game | GAME_ReadyOrNot | Alternate pak GUIDs with keys |
-| [Core](https://store.epicgames.com/en-US/p/core) | Platform | GAME_UE4_26 | Meshes don't load |
