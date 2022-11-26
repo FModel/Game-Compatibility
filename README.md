@@ -21,6 +21,7 @@ This repo will contain a list of games that have been verified to work with FMod
 | [Hello Neighbor 2](https://store.steampowered.com/app/1321680/Hello_Neighbor_2/) | HelloNeighbor2 | GAME_UE4_27 |
 | [Petals](https://petalsgame.itch.io/petals) | Petals | GAME_UE5_0 | [Mapping](https://cdn.discordapp.com/attachments/1032869717708378122/1045910129687678997/Mappings.usmap) |
 | [Rumbleverse](https://store.epicgames.com/en-US/p/rumbleverse) | Rumbleverse | GAME_ReadyOrNot |
+| [Dauntless](https://store.epicgames.com/en-US/p/dauntless) | Archon | GAME_Dauntless |
 
 ## Not completely supported / Have issues
 | Game | Project Name | Version | Issue |
