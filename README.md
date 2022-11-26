@@ -37,6 +37,7 @@ Make an [issue](https://github.com/FModel/Game-Compatibility/issues/new/choose),
 | [Little Nightmares](https://store.steampowered.com/app/424840/Little_Nightmares/) | Atlas | GAME_UE4_13 |
 | [Little Nightmares II](https://store.steampowered.com/app/860510/Little_Nightmares_II/) | Helios | GAME_UE4_24 |
 | [Deathly Stillness](https://store.steampowered.com/app/1727650/Deathly_Stillness/) | DeathlyStillnessGame | GAME_UE4_26 |
+| [The Anacrusis](https://store.steampowered.com/app/1120480/The_Anacrusis/) | Anacrusis | GAME_UE4_27 |
 
 ### Not completely supported / Have issues
 | Game | Project Name | Version | Issue |
