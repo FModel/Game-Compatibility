@@ -47,3 +47,4 @@ Make an [issue](https://github.com/FModel/Game-Compatibility/issues/new/choose),
 | [QQ](https://play.google.com/store/apps/details?id=com.tencent.mobileqq) | UE4 | GAME_UE4_26 | FPakInfo modification |
 | [Video Horror Society](https://store.epicgames.com/en-US/p/vhs) | Game | GAME_ReadyOrNot | Alternate pak GUIDs with keys |
 | [Deliver Us The Moon](https://store.steampowered.com/app/428660/Deliver_Us_The_Moon/) | MoonMan | GAME_UE4_26 | Asset Registry invalid FString length |
+| [Scavengers](https://store.steampowered.com/app/1183940/Scavengers/) | Scavenger | GAME_UE4_26 | Blueprints and Asset Registry errors & Meshes don't load |
