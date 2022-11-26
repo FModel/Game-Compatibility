@@ -25,4 +25,4 @@ This repo will contain a list of games that have been verified to work with FMod
 | [HYENAS](https://store.steampowered.com/app/1989910/HYENAS/) | keaton | GAME_UE4_27 | Every asset causes a CLR crash |
 | [Divine Knockout](https://store.steampowered.com/app/1294660/Divine_Knockout_DKO/) | DivineKnockout | GAME_UE4_27 | Meshes don't load |
 | [Apex Legends Mobile](https://play.google.com/store/apps/details?id=com.ea.gp.apexlegendsmobilefps) | AClient | GAME_ApexLegendsMobile | Meshes don't load |
-| [QQ](https://play.google.com/store/apps/details?id=com.tencent.mobileqq) | UE4 | GAME_UE4_26 | Pak info modification |
+| [QQ](https://play.google.com/store/apps/details?id=com.tencent.mobileqq) | UE4 | GAME_UE4_26 | FPakInfo modification |
