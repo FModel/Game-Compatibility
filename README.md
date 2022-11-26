@@ -15,6 +15,8 @@ This repo will contain a list of games that have been verified to work with FMod
 | [Tower of Fantasy](https://store.steampowered.com/app/2064650/Tower_of_Fantasy/) | Hotta | GAME_TowerOfFantasy |
 | [State of Decay 2](https://store.steampowered.com/app/495420/State_of_Decay_2_Juggernaut_Edition/) | StateOfDecay2 | GAME_StateOfDecay2 |
 | [Ready or Not](https://store.steampowered.com/app/1144200/Ready_or_Not/) | ReadyOrNot | GAME_ReadyOrNot |
+| [Kingdom Hearts 3](https://store.epicgames.com/en-US/p/kingdom-hearts-iii) | TresGame | GAME_KingdomHearts3 |
+| [eFootball 2023](http://store.steampowered.com/app/1665460/eFootball_2023/) | PesConsole | GAME_UE4_26 |
 
 ## Not completely supported / Have issues
 | Game | Project Name | Version | Issue |
