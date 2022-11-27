@@ -39,6 +39,7 @@ Make an [issue](https://github.com/FModel/Game-Compatibility/issues/new/choose),
 | [Deathly Stillness](https://store.steampowered.com/app/1727650/Deathly_Stillness/) | DeathlyStillnessGame | GAME_UE4_26 |
 | [The Anacrusis](https://store.steampowered.com/app/1120480/The_Anacrusis/) | Anacrusis | GAME_UE4_27 |
 | [HARVESTELLA](https://store.steampowered.com/app/1816300/HARVESTELLA/) | Harvestella | GAME_UE5_0 | [Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/Harvestella/Mappings.usmap) |
+| [Mortal Kombat: Onslaught](https://play.google.com/store/apps/details?id=com.wb.goog.mk.rpg2021) | TNT | GAME_ReadyOrNot |
 
 ### Not completely supported / Have issues
 | Game | Project Name | Version | Issue |
@@ -51,3 +52,5 @@ Make an [issue](https://github.com/FModel/Game-Compatibility/issues/new/choose),
 | [Deliver Us The Moon](https://store.steampowered.com/app/428660/Deliver_Us_The_Moon/) | MoonMan | GAME_UE4_26 | Asset Registry invalid FString length |
 | [Scavengers](https://store.steampowered.com/app/1183940/Scavengers/) | Scavenger | GAME_UE4_26 | Blueprints and Asset Registry errors & Meshes don't load |
 | [Unreal Tournament](https://store.epicgames.com/en-US/p/unreal-tournament) | UnrealTournament | GAME_UE4_15 | Highly modified engine |
+| [Battlefield Mobile](https://play.google.com/store/apps/details?id=com.ea.gp.odessa) | Odessa | GAME_UE4_27 | Missing mappings file (if you have it, please supply it in an issue) |
+
