@@ -41,6 +41,7 @@ Make an [issue](https://github.com/FModel/Game-Compatibility/issues/new/choose),
 | [HARVESTELLA](https://store.steampowered.com/app/1816300/HARVESTELLA/) | Harvestella | GAME_UE5_0 | [Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/Harvestella/Mappings.usmap) |
 | [Mortal Kombat: Onslaught](https://play.google.com/store/apps/details?id=com.wb.goog.mk.rpg2021) | TNT | GAME_ReadyOrNot |
 | [Torchlight: Infinite](https://store.steampowered.com/app/1974050/Torchlight_Infinite/) | UE_game | GAME_ReadyOrNot |
+| [Multiversus](https://store.epicgames.com/en-US/p/multiversus) | MultiVersus | GAME_UE4_27 |
 
 ### Not completely supported / Have issues
 | Game | Project Name | Version | Issue |
