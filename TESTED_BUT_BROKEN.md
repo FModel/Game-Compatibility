@@ -12,6 +12,11 @@ The issue is described under the "Issue" header. If you have fixes for these, pl
 |--|--|--|--|
 |[Apex Legends Mobile](https://play.google.com/store/apps/details?id=com.ea.gp.apexlegendsmobilefps)|AClient|GAME_ApexLegendsMobile|Meshes don't load|
 
+## Unreal Engine 4.25
+|Game|Project Name|Custom Version|Issue|
+|--|--|--|--|
+|[Maneater (Microsoft Store)](https://www.xbox.com/en-US/games/store/maneater/9p5b81kvdgp1)|Maneater| |Uses frozen pak indexes|
+
 ## Unreal Engine 4.26
 |Game|Project Name|Custom Version|Issue|
 |--|--|--|--|
