@@ -57,6 +57,7 @@
 |[Rumbleverse](https://store.epicgames.com/en-US/p/rumbleverse)|Rumbleverse|GAME_ReadyOrNot|
 |[Mortal Kombat: Onslaught](https://play.google.com/store/apps/details?id=com.wb.goog.mk.rpg2021)|TNT|GAME_ReadyOrNot|
 |[Torchlight: Infinite](https://store.steampowered.com/app/1974050/Torchlight_Infinite/)|UE_game|GAME_ReadyOrNot|
+|[GTA Trilogy - Definitive Edition](https://store.rockstargames.com/game/buy-grand-theft-auto-the-trilogy-the-definitive-edition)|Gameface|GAME_GTATheTrilogyDefinitiveEdition
 
 ## Unreal Engine 4.27
 |Game|Project Name|Custom Version|
