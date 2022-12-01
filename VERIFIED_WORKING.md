@@ -69,6 +69,7 @@
 |[The Cycle](https://store.epicgames.com/en-US/p/thecycle)|Prospect|GAME_UE4_27|
 |[Splitgate](https://store.steampowered.com/app/677620/Splitgate/)|PortalWars|GAME_Splitgate|
 |[Meet Your Maker](https://store.steampowered.com/app/1194810/Meet_Your_Maker/)|Sanctuary|GAME_MeetYourMaker|
+|[Stray](https://store.steampowered.com/app/1332010/Stray/)|Hk_project|GAME_ReadyOrNot|
 
 ## Unreal Engine 5.0
 |Game|Project Name|Custom Version|Mappings|
