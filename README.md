@@ -42,6 +42,7 @@ Make an [issue](https://github.com/FModel/Game-Compatibility/issues/new/choose),
 | [Mortal Kombat: Onslaught](https://play.google.com/store/apps/details?id=com.wb.goog.mk.rpg2021) | TNT | GAME_ReadyOrNot |
 | [Torchlight: Infinite](https://store.steampowered.com/app/1974050/Torchlight_Infinite/) | UE_game | GAME_ReadyOrNot |
 | [Multiversus](https://store.epicgames.com/en-US/p/multiversus) | MultiVersus | GAME_UE4_27 |
+| [Bloodstained: Ritual of the Night](https://store.steampowered.com/app/692850/Bloodstained_Ritual_of_the_Night/) | BloodstainedRotN | GAME_UE4_24 |
 
 ### Not completely supported / Have issues
 | Game | Project Name | Version | Issue |
