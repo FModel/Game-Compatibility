@@ -17,6 +17,11 @@
 |--|--|--|
 |[PUBG: BATTLEGROUNDS](https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/)|TslGame|GAME_PlayerUnknownsBattlegrounds|
 
+## Unreal Engine 4.17
+|Game|Project Name|Custom Version|
+|--|--|--|
+|[Shardbound](https://store.steampowered.com/app/586030/Shardbound/)|Tactics|
+
 ## Unreal Engine 4.18
 |Game|Project Name|Custom Version|
 |--|--|--|
