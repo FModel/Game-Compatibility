@@ -58,11 +58,12 @@
 |[Valorant](https://store.epicgames.com/en-US/p/valorant)|ShooterGame|GAME_Valorant|
 |[Tower of Fantasy](https://store.steampowered.com/app/2064650/Tower_of_Fantasy/)|Hotta|GAME_TowerOfFantasy|
 |[Dauntless](https://store.epicgames.com/en-US/p/dauntless)|Archon|GAME_Dauntless|
+|[GTA Trilogy - Definitive Edition](https://store.rockstargames.com/game/buy-grand-theft-auto-the-trilogy-the-definitive-edition)|Gameface|GAME_GTATheTrilogyDefinitiveEdition|
 |[Ready or Not](https://store.steampowered.com/app/1144200/Ready_or_Not/)|ReadyOrNot|GAME_ReadyOrNot|
 |[Rumbleverse](https://store.epicgames.com/en-US/p/rumbleverse)|Rumbleverse|GAME_ReadyOrNot|
 |[Mortal Kombat: Onslaught](https://play.google.com/store/apps/details?id=com.wb.goog.mk.rpg2021)|TNT|GAME_ReadyOrNot|
 |[Torchlight: Infinite](https://store.steampowered.com/app/1974050/Torchlight_Infinite/)|UE_game|GAME_ReadyOrNot|
-|[GTA Trilogy - Definitive Edition](https://store.rockstargames.com/game/buy-grand-theft-auto-the-trilogy-the-definitive-edition)|Gameface|GAME_GTATheTrilogyDefinitiveEdition|
+|[Stray](https://store.steampowered.com/app/1332010/Stray/)|Hk_project|GAME_ReadyOrNot|
 
 ## Unreal Engine 4.27
 |Game|Project Name|Custom Version|
@@ -75,14 +76,14 @@
 |[The Cycle](https://store.epicgames.com/en-US/p/thecycle)|Prospect|GAME_UE4_27|
 |[Splitgate](https://store.steampowered.com/app/677620/Splitgate/)|PortalWars|GAME_Splitgate|
 |[Meet Your Maker](https://store.steampowered.com/app/1194810/Meet_Your_Maker/)|Sanctuary|GAME_MeetYourMaker|
-|[Stray](https://store.steampowered.com/app/1332010/Stray/)|Hk_project|GAME_ReadyOrNot|
 
 ## Unreal Engine 5.0
 |Game|Project Name|Custom Version|Mappings|
 |--|--|--|--|
 |[Kitty May Cry](https://store.steampowered.com/app/2123100/Kitty_May_Cry/)|KittyMayCry|
 |[Petals](https://petalsgame.itch.io/petals)|Petals| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/Petals/Mappings.usmap)|
-|[HARVESTELLA](https://store.steampowered.com/app/1816300/HARVESTELLA/)|Harvestella| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/Harvestella/Mappings.usmap) |
+|[HARVESTELLA](https://store.steampowered.com/app/1816300/HARVESTELLA/)|Harvestella| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/Harvestella/Mappings.usmap)|
+|[Predecessor]() |Predecessor| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/Predecessor/Mappings.usmap)|
 
 ## Unreal Engine 5.1
 |Game|Project Name|Custom Version|Mappings|
