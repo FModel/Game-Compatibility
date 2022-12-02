@@ -22,6 +22,11 @@
 |--|--|--|
 |[Kingdom Hearts 3](https://store.epicgames.com/en-US/p/kingdom-hearts-iii)|TresGame|GAME_KingdomHearts3|
 
+## Unreal Engine 4.19
+|Game|Project Name|Custom Version|
+|--|--|--|
+|[Paragon](https://www.unrealengine.com/en-US/paragon)|OrionGame|GAME_Paragon|
+
 ## Unreal Engine 4.20
 |Game|Project Name|Custom Version|
 |--|--|--|
