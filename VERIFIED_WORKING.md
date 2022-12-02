@@ -88,7 +88,7 @@
 |[Kitty May Cry](https://store.steampowered.com/app/2123100/Kitty_May_Cry/)|KittyMayCry|
 |[Petals](https://petalsgame.itch.io/petals)|Petals| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/Petals/Mappings.usmap)|
 |[HARVESTELLA](https://store.steampowered.com/app/1816300/HARVESTELLA/)|Harvestella| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/Harvestella/Mappings.usmap)|
-|[Predecessor]() |Predecessor| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/Predecessor/Mappings.usmap)|
+|[Predecessor](https://store.epicgames.com/en-US/p/predecessor)|Predecessor| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/Predecessor/Mappings.usmap)|
 
 ## Unreal Engine 5.1
 |Game|Project Name|Custom Version|Mappings|
