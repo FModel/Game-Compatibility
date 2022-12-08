@@ -96,7 +96,7 @@
 |[HARVESTELLA](https://store.steampowered.com/app/1816300/HARVESTELLA/)|Harvestella| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/Harvestella/Mappings.usmap)|
 |[Predecessor](https://store.epicgames.com/en-US/p/predecessor)|Predecessor| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/Predecessor/Mappings.usmap)|
 
-## Unreal Engine 5.1
+## Unreal Engine 5.2
 |Game|Project Name|Custom Version|Mappings|
 |--|--|--|--|
 |[Fortnite](https://store.epicgames.com/en-US/p/fortnite)|FortniteGame| |[Mapping](https://fortnitecentral.gmatrixgames.ga/api/v1/mappings)|
