@@ -16,6 +16,7 @@ The issue is described under the "Issue" header. If you have fixes for these, pl
 |Game|Project Name|Custom Version|Issue|
 |--|--|--|--|
 |[Maneater (Microsoft Store)](https://www.xbox.com/en-US/games/store/maneater/9p5b81kvdgp1)|Maneater| |Uses frozen pak indexes|
+|[Divine Knockout](https://store.steampowered.com/app/1294660/Divine_Knockout_DKO/)|DivineKnockout|GAME_RogueCompany|ACL animation fails|
 
 ## Unreal Engine 4.26
 |Game|Project Name|Custom Version|Issue|
@@ -29,5 +30,4 @@ The issue is described under the "Issue" header. If you have fixes for these, pl
 |Game|Project Name|Custom Version|Issue|
 |--|--|--|--|
 |[HYENAS](https://store.steampowered.com/app/1989910/HYENAS/)|keaton| |Every asset causes a CLR crash|
-|[Divine Knockout](https://store.steampowered.com/app/1294660/Divine_Knockout_DKO/)|DivineKnockout| |Meshes don't load|
 |[Battlefield Mobile](https://play.google.com/store/apps/details?id=com.ea.gp.odessa)|Odessa| |Mappings needed (if you have it, please supply it in an issue)|
