@@ -50,6 +50,7 @@
 |--|--|--|
 |[MORDHAU](https://store.steampowered.com/app/629760/MORDHAU/)|Mordhau|
 |[Hello Neighbor](https://store.steampowered.com/app/521890/Hello_Neighbor/)|HelloNeighbor|
+|[Empires Apart](https://store.steampowered.com/app/530630/Empires_Apart/)|Impero|
 |[Borderlands 3](https://store.epicgames.com/en-US/p/borderlands-3)|OakGame|GAME_Borderlands3|
 
 ## Unreal Engine 4.22
