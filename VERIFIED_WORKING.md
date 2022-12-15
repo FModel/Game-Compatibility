@@ -11,6 +11,7 @@
 |Game|Project Name|Custom Version|
 |--|--|--|
 |[Golf It!](https://store.steampowered.com/app/571740/Golf_It/)|GolfIt|
+|[Downward](https://store.steampowered.com/app/506900/Downward/)|Downward/DownwardDemo|
 
 ## Unreal Engine 4.16
 |Game|Project Name|Custom Version|
