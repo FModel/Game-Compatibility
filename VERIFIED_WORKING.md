@@ -75,6 +75,7 @@
 |[Mortal Kombat: Onslaught](https://play.google.com/store/apps/details?id=com.wb.goog.mk.rpg2021)|TNT|GAME_ReadyOrNot|
 |[Torchlight: Infinite](https://store.steampowered.com/app/1974050/Torchlight_Infinite/)|UE_game|GAME_ReadyOrNot|
 |[Stray](https://store.steampowered.com/app/1332010/Stray/)|Hk_project|GAME_ReadyOrNot|
+|[Wayfinder](https://store.steampowered.com/app/1171690/Wayfinder/)|Atlas|GAME_ReadyOrNot|
 
 ## Unreal Engine 4.27
 |Game|Project Name|Custom Version|
