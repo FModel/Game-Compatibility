@@ -6,6 +6,7 @@ The issue is described under the "Issue" header. If you have fixes for these, pl
 |Game|Project Name|Custom Version|Issue|
 |--|--|--|--|
 |[Hide and Shriek](https://store.steampowered.com/app/480430/Hide_and_Shriek/)|HideandShriek| |Skeletal meshes fail, and static has 4 remaining bytes|
+|[Seven: The Days Long Gone](https://store.steampowered.com/app/471010/Seven_Enhanced_Edition/)|Seven| |Skeletal meshes fail|
 
 ## Unreal Engine 4.15
 |Game|Project Name|Custom Version|Issue|
