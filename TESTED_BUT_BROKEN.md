@@ -2,6 +2,11 @@
 ### Games are sorted by base engine version. CUE4Parse EGame enum value supplied under the "Custom Version" header as some games have custom changes.
 The issue is described under the "Issue" header. If you have fixes for these, please create a Pull Request to submit your changes to CUE4Parse to help the community.
 
+## Unreal Engine 4.12
+|Game|Project Name|Custom Version|Issue|
+|--|--|--|--|
+|[Hide and Shriek](https://store.steampowered.com/app/480430/Hide_and_Shriek/)|HideandShriek| |Skeletal meshes fail, and static has 4 remaining bytes|
+
 ## Unreal Engine 4.15
 |Game|Project Name|Custom Version|Issue|
 |--|--|--|--|
