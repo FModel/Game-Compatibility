@@ -100,7 +100,8 @@
 |[Paragon: The Overprime](https://store.epicgames.com/en-US/p/paragon-the-overprime-0bca60)|Overprime|
 |[The Anacrusis](https://store.steampowered.com/app/1120480/The_Anacrusis/)|Anacrusis|
 |[Multiversus](https://store.epicgames.com/en-US/p/multiversus)|MultiVersus|
-|[The Cycle](https://store.epicgames.com/en-US/p/thecycle)|Prospect|GAME_UE4_27|
+|[The Cycle](https://store.epicgames.com/en-US/p/thecycle)|Prospect|
+|[Marie's Room](https://store.steampowered.com/app/648390/Maries_Room/)|MariesRoom|
 |[Splitgate](https://store.steampowered.com/app/677620/Splitgate/)|PortalWars|GAME_Splitgate|
 |[Meet Your Maker](https://store.steampowered.com/app/1194810/Meet_Your_Maker/)|Sanctuary|GAME_MeetYourMaker|
 
