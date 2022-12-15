@@ -18,6 +18,11 @@ The issue is described under the "Issue" header. If you have fixes for these, pl
 |--|--|--|--|
 |[Apex Legends Mobile](https://play.google.com/store/apps/details?id=com.ea.gp.apexlegendsmobilefps)|AClient|GAME_ApexLegendsMobile|Meshes don't load|
 
+## Unreal Engine 4.24
+|Game|Project Name|Custom Version|Issue|
+|--|--|--|--|
+|[Empires of the Undergrowth](https://store.steampowered.com/app/463530/Empires_of_the_Undergrowth/)|EotU| |Invalid FString length for Asset Registry|
+
 ## Unreal Engine 4.25
 |Game|Project Name|Custom Version|Issue|
 |--|--|--|--|
