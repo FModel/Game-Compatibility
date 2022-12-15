@@ -15,6 +15,7 @@
 |[Einar](https://store.steampowered.com/app/674400/Einar/)|Einar|
 |[Hide vs. Seek](https://store.steampowered.com/app/616220/Hide_vs_Seek/)|HideAndSeek|
 |[Home Sweet Home](https://store.steampowered.com/app/617160/Home_Sweet_Home/)|HomeSweetHome|
+|[Fog Of War](https://store.steampowered.com/app/691020/Fog_Of_War__Free_Edition/)|Battalion_Beta|
 
 ## Unreal Engine 4.16
 |Game|Project Name|Custom Version|
