@@ -46,3 +46,8 @@ If you have any of these and can verify their functionality, please open an Issu
 - [Raw Data](https://store.steampowered.com/app/436320/Raw_Data/)
 - [The Culling](https://store.steampowered.com/app/437220/The_Culling/)
 - [CAT Interstellar](https://store.steampowered.com/app/384740/CAT_Interstellar/)
+- [Kings and Heroes](https://store.steampowered.com/app/436560/Kings_and_Heroes/)
+- [TARTARUS](https://store.steampowered.com/app/608530/TARTARUS/)
+- [Unforgiving - A Northern Hymn](https://store.steampowered.com/app/747340/Unforgiving__A_Northern_Hymn/)
+- [Hold Your Own](https://store.steampowered.com/app/717790/Hold_Your_Own/)
+- 
