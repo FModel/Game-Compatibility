@@ -68,5 +68,5 @@ If you have any of these and can verify their functionality, please open an Issu
 - [The Wizards](https://store.steampowered.com/app/586950/The_Wizards__Enhanced_Edition/)
 - [Sword With Sauce](https://store.steampowered.com/app/581630/Sword_With_Sauce/)
 - [ARK Park](https://store.steampowered.com/app/529910/ARK_Park/)
-- [TOGETHER VR](ps://store.steampowered.com/app/771920/TOGETHER_VR/)
+- [TOGETHER VR](https://store.steampowered.com/app/771920/TOGETHER_VR/)
 - [KovaaK's](https://store.steampowered.com/app/824270/KovaaKs/)
