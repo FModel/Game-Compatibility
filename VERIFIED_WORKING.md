@@ -1,6 +1,12 @@
 # Compatible and verified working (at the time of addition)
 ### Games are sorted by base engine version. CUE4Parse EGame enum value supplied under the "Custom Version" header as some games have custom changes.
 
+## Unreal Engine 4.12
+|Game|Project Name|Custom Version|
+|--|--|--|
+|[Hide and Shriek](https://store.steampowered.com/app/480430/Hide_and_Shriek/)|HideandShriek|
+|[Seven: The Days Long Gone](https://store.steampowered.com/app/471010/Seven_Enhanced_Edition/)|Seven|
+
 ## Unreal Engine 4.13
 |Game|Project Name|Custom Version|
 |--|--|--|
