@@ -13,6 +13,7 @@
 |[Golf It!](https://store.steampowered.com/app/571740/Golf_It/)|GolfIt|
 |[Downward](https://store.steampowered.com/app/506900/Downward/)|Downward/DownwardDemo|
 |[Einar](https://store.steampowered.com/app/674400/Einar/)|Einar|
+|[Hide vs. Seek](https://store.steampowered.com/app/616220/Hide_vs_Seek/)|HideAndSeek|
 
 ## Unreal Engine 4.16
 |Game|Project Name|Custom Version|
