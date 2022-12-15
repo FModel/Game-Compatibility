@@ -7,6 +7,11 @@ The issue is described under the "Issue" header. If you have fixes for these, pl
 |--|--|--|--|
 |[Unreal Tournament](https://store.epicgames.com/en-US/p/unreal-tournament)|UnrealTournament| |Highly modified engine|
 
+## Unreal Engine 4.16
+|Game|Project Name|Custom Version|Issue|
+|--|--|--|--|
+|[The Awesome Adventures of Captain Spirit](https://store.steampowered.com/app/845070/The_Awesome_Adventures_of_Captain_Spirit/)|CaptainSpirit| |Static meshes don't load|
+
 ## Unreal Engine 4.23
 |Game|Project Name|Custom Version|Issue|
 |--|--|--|--|
