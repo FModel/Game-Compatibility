@@ -26,11 +26,12 @@
 |Game|Project Name|Custom Version|
 |--|--|--|
 |[Shardbound](https://store.steampowered.com/app/586030/Shardbound/)|Tactics|
+|[BattleRush](https://store.steampowered.com/app/734580/BattleRush/)|Cv2_Base|
 
 ## Unreal Engine 4.18
 |Game|Project Name|Custom Version|
 |--|--|--|
-[Q.U.B.E. 2](https://store.steampowered.com/app/359100/QUBE_2/)|QUBE|
+|[Q.U.B.E. 2](https://store.steampowered.com/app/359100/QUBE_2/)|QUBE|
 |[Kingdom Hearts 3](https://store.epicgames.com/en-US/p/kingdom-hearts-iii)|TresGame|GAME_KingdomHearts3|
 
 ## Unreal Engine 4.19
