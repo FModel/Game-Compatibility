@@ -128,6 +128,7 @@
 |[Multiversus](https://store.epicgames.com/en-US/p/multiversus)|MultiVersus|
 |[The Cycle](https://store.epicgames.com/en-US/p/thecycle)|Prospect|
 |[Marie's Room](https://store.steampowered.com/app/648390/Maries_Room/)|MariesRoom|
+|[AMID EVIL](https://store.steampowered.com/app/673130/AMID_EVIL/)|AmidEvil|
 |[Splitgate](https://store.steampowered.com/app/677620/Splitgate/)|PortalWars|GAME_Splitgate|
 |[Meet Your Maker](https://store.steampowered.com/app/1194810/Meet_Your_Maker/)|Sanctuary|GAME_MeetYourMaker|
 
