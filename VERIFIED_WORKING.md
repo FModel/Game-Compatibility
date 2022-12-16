@@ -94,6 +94,7 @@
 ## Unreal Engine 4.25
 |Game|Project Name|Custom Version|
 |--|--|--|
+|[TrenchesWIP](https://store.steampowered.com/app/1118920/TrenchesWIP/)|FPSKit|
 |[Rogue Company](https://store.epicgames.com/en-US/p/rogue-company)|RogueCompany|GAME_RogueCompany|
 
 ## Unreal Engine 4.26
