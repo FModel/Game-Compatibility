@@ -61,6 +61,7 @@
 |--|--|--|
 |[Spellbreak](https://store.epicgames.com/en-US/p/spellbreak)|g3|
 |[Minecraft Dungeons](https://store.steampowered.com/app/1672970/Minecraft_Dungeons/)|Dungeons|
+|[CityBattle](https://store.steampowered.com/app/611020/CityBattle__Virtual_Earth/)|WarguardGame|
 
 ## Unreal Engine 4.24
 |Game|Project Name|Custom Version|
