@@ -1,6 +1,11 @@
 # Compatible and verified working (at the time of addition)
 ### Games are sorted by base engine version. CUE4Parse EGame enum value supplied under the "Custom Version" header as some games have custom changes.
 
+## Unreal Engine 4.8
+|Game|Project Name|Custom Version|
+|--|--|--|
+|[Gravitas](https://store.steampowered.com/app/1067310/Gravitas/)|SkyArk|
+
 ## Unreal Engine 4.12
 |Game|Project Name|Custom Version|
 |--|--|--|
