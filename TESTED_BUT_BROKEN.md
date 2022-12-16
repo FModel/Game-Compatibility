@@ -11,6 +11,7 @@ The issue is described under the "Issue" header. If you have fixes for these, pl
 |Game|Project Name|Custom Version|Issue|
 |--|--|--|--|
 |[The Awesome Adventures of Captain Spirit](https://store.steampowered.com/app/845070/The_Awesome_Adventures_of_Captain_Spirit/)|CaptainSpirit| |Static meshes don't load|
+|[Life is Strange 2](https://store.steampowered.com/app/532210/Life_is_Strange_2/)|LIS2|GAME_LifeIsStrange2|Animations are broken
 
 ## Unreal Engine 4.23
 |Game|Project Name|Custom Version|Issue|
