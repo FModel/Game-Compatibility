@@ -128,8 +128,8 @@
 |[TDPA - The Devil in Me](https://store.steampowered.com/app/1567020/The_Dark_Pictures_Anthology_The_Devil_in_Me/)|SMG028|GAME_ReadyOrNot|
 
 ## Unreal Engine 4.27
-|Game|Project Name|Custom Version|
-|--|--|--|
+|Game|Project Name|Custom Version|Mappings|
+|--|--|--|--|
 |[Dead by Daylight](https://store.epicgames.com/en-US/p/dead-by-daylight)|DeadByDaylight|
 |[Hello Neighbor 2](https://store.steampowered.com/app/1321680/Hello_Neighbor_2/)|HelloNeighbor2|
 |[Paragon: The Overprime](https://store.epicgames.com/en-US/p/paragon-the-overprime-0bca60)|Overprime|
@@ -139,6 +139,8 @@
 |[Marie's Room](https://store.steampowered.com/app/648390/Maries_Room/)|MariesRoom|
 |[AMID EVIL](https://store.steampowered.com/app/673130/AMID_EVIL/)|AmidEvil|
 |[The Orville - Interactive Fan Experience](https://store.steampowered.com/app/1096200/The_Orville__Interactive_Fan_Experience/)|OrvilleFanGame|
+|[HARVESTELLA](https://store.steampowered.com/app/1816300/HARVESTELLA/)|Harvestella| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/Harvestella/Mappings.usmap)|
+|[Crisis Core - Final Fantasy 7 Reunion](https://store.steampowered.com/app/1608070/CRISIS_CORE_FINAL_FANTASY_VII_REUNION/)|CCFF7R| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/CCFF7R/Mappings.usmap)|
 |[Splitgate](https://store.steampowered.com/app/677620/Splitgate/)|PortalWars|GAME_Splitgate|
 |[Meet Your Maker](https://store.steampowered.com/app/1194810/Meet_Your_Maker/)|Sanctuary|GAME_MeetYourMaker|
 
@@ -147,7 +149,6 @@
 |--|--|--|--|
 |[Kitty May Cry](https://store.steampowered.com/app/2123100/Kitty_May_Cry/)|KittyMayCry|
 |[Petals](https://petalsgame.itch.io/petals)|Petals| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/Petals/Mappings.usmap)|
-|[HARVESTELLA](https://store.steampowered.com/app/1816300/HARVESTELLA/)|Harvestella| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/Harvestella/Mappings.usmap)|
 |[Predecessor](https://store.epicgames.com/en-US/p/predecessor)|Predecessor| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/Predecessor/Mappings.usmap)|
 
 ## Unreal Engine 5.2
