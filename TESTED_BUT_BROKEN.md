@@ -47,3 +47,4 @@ The issue is described under the "Issue" header. If you have fixes for these, pl
 |--|--|--|--|
 |[HYENAS](https://store.steampowered.com/app/1989910/HYENAS/)|keaton| |Every asset causes a CLR crash|
 |[Battlefield Mobile](https://play.google.com/store/apps/details?id=com.ea.gp.odessa)|Odessa| |Mappings needed (if you have it, please supply it in an issue)|
+|[Brickadia](https://brickadia.com/download)|Brickadia| |Removed directory index|
