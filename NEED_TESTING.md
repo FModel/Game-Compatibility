@@ -4,7 +4,6 @@ If you have any of these and can verify their functionality, please open an Issu
 
 ## Steam
 - [Pavlov VR](https://store.steampowered.com/app/555160/Pavlov_VR/)
-- [Disc Jam](https://store.steampowered.com/app/415880/Disc_Jam/)
 - [Styx: Shards of Darkness](https://store.steampowered.com/app/355790/Styx_Shards_of_Darkness/)
 - [Train Sim World 2020](https://store.steampowered.com/app/530070/Train_Sim_World_2020/)
 - [Snake Pass](https://store.steampowered.com/app/544330/Snake_Pass/)
