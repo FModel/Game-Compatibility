@@ -26,6 +26,7 @@ The issue is described under the "Issue" header. If you have fixes for these, pl
 ## Unreal Engine 4.23
 |Game|Project Name|Custom Version|Issue|
 |--|--|--|--|
+|[Shin Megami Tensei V](https://www.nintendo.com/store/products/shin-megami-tensei-v-switch/)|Project| |Invalid FString length for Asset Registry|
 |[Apex Legends Mobile](https://play.google.com/store/apps/details?id=com.ea.gp.apexlegendsmobilefps)|AClient|GAME_ApexLegendsMobile|Meshes don't load|
 
 ## Unreal Engine 4.24
