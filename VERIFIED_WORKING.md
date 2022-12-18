@@ -17,6 +17,7 @@
 |--|--|--|
 |[Little Nightmares](https://store.steampowered.com/app/424840/Little_Nightmares/)|Atlas|
 |[Dreadnought](https://store.steampowered.com/app/835860/Dreadnought/)|DreadGame|
+|[Styx: Shards of Darkness](https://store.steampowered.com/app/355790/Styx_Shards_of_Darkness/)|Styx2|
 |[State of Decay 2](https://store.steampowered.com/app/495420/State_of_Decay_2_Juggernaut_Edition/)|StateOfDecay2|GAME_StateOfDecay2|
 
 ## Unreal Engine 4.14
