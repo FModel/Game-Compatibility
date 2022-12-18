@@ -51,6 +51,7 @@
 |[Laser League: World Arena](https://store.steampowered.com/app/570460/Laser_League_World_Arena/)|GameProject|
 |[Burning Daylight](https://store.steampowered.com/app/1052070/Burning_Daylight/)|BurningDaylight|
 |[UNDEFEATED](https://store.steampowered.com/app/1116960/UNDEFEATED/)|UNDEFEATED|
+|[Yoshi's Crafted World](https://www.nintendo.com/store/products/yoshis-crafted-world-switch/)|PJ033|
 |[Kingdom Hearts 3](https://store.epicgames.com/en-US/p/kingdom-hearts-iii)|TresGame|GAME_KingdomHearts3|
 
 ## Unreal Engine 4.19
