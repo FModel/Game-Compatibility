@@ -4,7 +4,6 @@ If you have any of these and can verify their functionality, please open an Issu
 
 ## Steam
 - [Pavlov VR](https://store.steampowered.com/app/555160/Pavlov_VR/)
-- [Train Sim World 2020](https://store.steampowered.com/app/530070/Train_Sim_World_2020/)
 - [Snake Pass](https://store.steampowered.com/app/544330/Snake_Pass/)
 - [What Remains of Edith Finch](https://store.steampowered.com/app/501300/What_Remains_of_Edith_Finch/)
 - [Batman: Arkham VR](https://store.steampowered.com/app/502820/Batman_Arkham_VR/)
