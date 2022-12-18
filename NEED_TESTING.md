@@ -19,7 +19,6 @@ If you have any of these and can verify their functionality, please open an Issu
 - [Perception](https://store.steampowered.com/app/426310/Perception/)
 - [The Long Journey Home](https://store.steampowered.com/app/366910/The_Long_Journey_Home/)
 - [Pacer](https://store.steampowered.com/app/389670/Pacer/)
-- [TEKKEN 7](https://store.steampowered.com/app/389730/TEKKEN_7/)
 - [Conarium](https://store.steampowered.com/app/313780/Conarium/)
 - [Chess Ultra](https://store.steampowered.com/app/518060/Chess_Ultra/)
 - [Strike Vector EX](https://store.steampowered.com/app/476360/Strike_Vector_EX/)
