@@ -103,7 +103,6 @@ If you have any of these and can verify their functionality, please open an Issu
 - [SCUM](https://store.steampowered.com/app/513710/SCUM/)
 - [NARUTO TO BORUTO: SHINOBI STRIKER](https://store.steampowered.com/app/633230/NARUTO_TO_BORUTO_SHINOBI_STRIKER/)
 - [Panzer Strategy](https://store.steampowered.com/app/769950/Panzer_Strategy/)
-- [DRAGON QUEST XI: Echoes of an Elusive Age](https://store.steampowered.com/app/742120/DRAGON_QUEST_XI_Echoes_of_an_Elusive_Age__Digital_Edition_of_Light/)
 - [PLANET ALPHA](https://store.steampowered.com/app/485030/PLANET_ALPHA/)
 - [New Dawn](https://store.steampowered.com/app/768370/New_Dawn/)
 - [The Bard's Tale IV](https://store.steampowered.com/app/566090/The_Bards_Tale_IV_Barrows_Deep/)
