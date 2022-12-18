@@ -11,6 +11,7 @@ The issue is described under the "Issue" header. If you have fixes for these, pl
 |Game|Project Name|Custom Version|Issue|
 |--|--|--|--|
 |[The Awesome Adventures of Captain Spirit](https://store.steampowered.com/app/845070/The_Awesome_Adventures_of_Captain_Spirit/)|CaptainSpirit| |Static meshes don't load|
+|[Train Sim World 2020](https://store.steampowered.com/app/530070/Train_Sim_World_2020/)|TS2Prototype| |Skeletal and Static meshes broken|
 |[Life is Strange 2](https://store.steampowered.com/app/532210/Life_is_Strange_2/)|LIS2|GAME_LifeIsStrange2|Animations are broken|
 
 ## Unreal Engine 4.18
