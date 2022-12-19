@@ -152,6 +152,7 @@
 |[Crisis Core - Final Fantasy 7 Reunion](https://store.steampowered.com/app/1608070/CRISIS_CORE_FINAL_FANTASY_VII_REUNION/)|CCFF7R| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/CCFF7R/Mappings.usmap)|
 |[Splitgate](https://store.steampowered.com/app/677620/Splitgate/)|PortalWars|GAME_Splitgate|
 |[Meet Your Maker](https://store.steampowered.com/app/1194810/Meet_Your_Maker/)|Sanctuary|GAME_MeetYourMaker|
+|[HYENAS](https://store.steampowered.com/app/1989910/HYENAS/)|keaton|GAME_HYENAS|
 
 ## Unreal Engine 5.0
 |Game|Project Name|Custom Version|Mappings|
