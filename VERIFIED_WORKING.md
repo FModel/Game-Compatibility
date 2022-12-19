@@ -128,6 +128,7 @@
 |[Tower of Fantasy](https://store.steampowered.com/app/2064650/Tower_of_Fantasy/)|Hotta|GAME_TowerOfFantasy|
 |[Dauntless](https://store.epicgames.com/en-US/p/dauntless)|Archon|GAME_Dauntless|
 |[GTA Trilogy - Definitive Edition](https://store.rockstargames.com/game/buy-grand-theft-auto-the-trilogy-the-definitive-edition)|Gameface|GAME_GTATheTrilogyDefinitiveEdition|
+|[The Division Resurgence](https://play.google.com/store/apps/details?id=com.ubisoft.the.division.mobile.combat.shooting.open.world.rpg)|TheDivision|GAME_TheDivisionResurgence|
 |[Ready or Not](https://store.steampowered.com/app/1144200/Ready_or_Not/)|ReadyOrNot|GAME_ReadyOrNot|
 |[Rumbleverse](https://store.epicgames.com/en-US/p/rumbleverse)|Rumbleverse|GAME_ReadyOrNot|
 |[Mortal Kombat: Onslaught](https://play.google.com/store/apps/details?id=com.wb.goog.mk.rpg2021)|TNT|GAME_ReadyOrNot|
