@@ -88,6 +88,7 @@
 |Game|Project Name|Custom Version|
 |--|--|--|
 |[NINE TRIALS](https://store.steampowered.com/app/976800/_NINE_TRIALS/)|NineTrials|
+|[Darwin Project](https://store.steampowered.com/app/544920/Darwin_Project/)|Darwin|
 
 ## Unreal Engine 4.22
 |Game|Project Name|Custom Version|
