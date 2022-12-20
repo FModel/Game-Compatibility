@@ -6,6 +6,11 @@
 |--|--|--|
 |[Gravitas](https://store.steampowered.com/app/1067310/Gravitas/)|SkyArk|
 
+## Unreal Engine 4.10
+|Game|Project Name|Custom Version|
+|--|--|--|
+|[Sea of Thieves](https://store.steampowered.com/app/1172620/Sea_of_Thieves/)|Athena|GAME_SeaOfThieves|
+
 ## Unreal Engine 4.12
 |Game|Project Name|Custom Version|
 |--|--|--|
