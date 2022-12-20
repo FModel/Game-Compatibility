@@ -56,6 +56,7 @@
 |[Midair](https://store.steampowered.com/app/439370/Midair/)|Midair|
 |[Mutant Year Zero: Road to Eden](https://store.steampowered.com/app/760060/Mutant_Year_Zero_Road_to_Eden/)|ZoneUE4|
 |[STARDROP](https://store.steampowered.com/app/552880/STARDROP/)|STARDROP|
+|[Sword Art Online: Fatal Bullet](https://store.steampowered.com/app/626690/Sword_Art_Online_Fatal_Bullet/)|SAOFB|
 
 ## Unreal Engine 4.18
 |Game|Project Name|Custom Version|
