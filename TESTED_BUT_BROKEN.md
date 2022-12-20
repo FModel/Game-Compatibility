@@ -38,6 +38,7 @@ The issue is described under the "Issue" header. If you have fixes for these, pl
 |Game|Project Name|Custom Version|Issue|
 |--|--|--|--|
 |[Maneater (Microsoft Store)](https://www.xbox.com/en-US/games/store/maneater/9p5b81kvdgp1)|Maneater| |Uses frozen pak indexes|
+|[Blade & Soul](https://www.bladeandsoul.com/)|BNSR| |Skeletal meshes cause CLR error|
 |[Divine Knockout](https://store.steampowered.com/app/1294660/Divine_Knockout_DKO/)|DivineKnockout|GAME_RogueCompany|ACL animation fails|
 
 ## Unreal Engine 4.26
