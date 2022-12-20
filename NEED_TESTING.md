@@ -59,7 +59,6 @@ If you have any of these and can verify their functionality, please open an Issu
 - [Ben and Ed - Bloodparty](https://store.steampowered.com/app/500260/Ben_and_Ed__Blood_Party/)
 - [Hand of the Gods](https://store.steampowered.com/app/648430/Hand_of_the_Gods/)
 - [All Walls Must Fall](https://store.steampowered.com/app/628290/All_Walls_Must_Fall__A_TechNoir_Tactics_Game/)
-- [Sword Art Online: Fatal Bullet](https://store.steampowered.com/app/626690/Sword_Art_Online_Fatal_Bullet/)
 - [Cyberdimension Neptunia: 4 Goddesses Online](https://store.steampowered.com/app/632350/Cyberdimension_Neptunia_4_Goddesses_Online/)
 - [The Wizards](https://store.steampowered.com/app/586950/The_Wizards__Enhanced_Edition/)
 - [Sword With Sauce](https://store.steampowered.com/app/581630/Sword_With_Sauce/)
