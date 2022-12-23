@@ -17,12 +17,13 @@ The issue is described under the "Issue" header. If you have fixes for these, pl
 |Game|Project Name|Custom Version|Issue|
 |--|--|--|--|
 |[DRAGON QUEST XI: Echoes of an Elusive Age](https://store.steampowered.com/app/742120/DRAGON_QUEST_XI_Echoes_of_an_Elusive_Age__Digital_Edition_of_Light/)|JackGame| |Modified FPakInfo|
-|[A Way Out]()|Haze1| |Invalid FString length for asset registry|
+|[A Way Out](https://store.steampowered.com/app/1222700/A_Way_Out/)|Haze1| |Invalid FString length for asset registry|
 
 ## Unreal Engine 4.21
 |Game|Project Name|Custom Version|Issue|
 |--|--|--|--|
 |[Supraland](https://store.steampowered.com/app/813630/Supraland/)|Supraland| |Invalid FString length for Asset Registry|
+|[The Outer Worlds](https://store.steampowered.com/app/578650/The_Outer_Worlds/)|Indiana| |Static Meshes don't load|
 
 ## Unreal Engine 4.23
 |Game|Project Name|Custom Version|Issue|
