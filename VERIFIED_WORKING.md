@@ -60,7 +60,7 @@
 |[Sword Art Online: Fatal Bullet](https://store.steampowered.com/app/626690/Sword_Art_Online_Fatal_Bullet/)|SAOFB|
 
 ## Unreal Engine 4.18
-|Game|Project Name|Custom Version|
+|Game|Project Name|Custom Version|Mappings|
 |--|--|--|
 |[Q.U.B.E. 2](https://store.steampowered.com/app/359100/QUBE_2/)|QUBE|
 |[Laser League: World Arena](https://store.steampowered.com/app/570460/Laser_League_World_Arena/)|GameProject|
@@ -68,6 +68,7 @@
 |[UNDEFEATED](https://store.steampowered.com/app/1116960/UNDEFEATED/)|UNDEFEATED|
 |[Yoshi's Crafted World](https://www.nintendo.com/store/products/yoshis-crafted-world-switch/)|PJ033|
 |[Kingdom Hearts 3](https://store.epicgames.com/en-US/p/kingdom-hearts-iii)|TresGame|GAME_KingdomHearts3|
+|[FINAL FANTASY VII REMAKE INTERGRADE](https://store.steampowered.com/app/1462040/FINAL_FANTASY_VII_REMAKE_INTERGRADE/)|End|GAME_FinalFantasy7Remake|[Mapping](https://cdn.discordapp.com/attachments/752881317146001559/1058146112525045830/FF7R.usmap)|
 
 ## Unreal Engine 4.19
 |Game|Project Name|Custom Version|
