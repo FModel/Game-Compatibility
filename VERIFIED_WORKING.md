@@ -118,6 +118,7 @@
 |[Bloodstained: Ritual of the Night](https://store.steampowered.com/app/692850/Bloodstained_Ritual_of_the_Night/)|BloodstainedRotN|
 |[Dark Deception](https://store.steampowered.com/app/332950/Dark_Deception/)|DDeception|
 |[KurtzPel](https://store.steampowered.com/app/844870/KurtzPel/)|TheChase|
+|[Empires of the Undergrowth](https://store.steampowered.com/app/463530/Empires_of_the_Undergrowth/)|EotU|
 
 ## Unreal Engine 4.25
 |Game|Project Name|Custom Version|
