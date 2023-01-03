@@ -61,7 +61,7 @@
 
 ## Unreal Engine 4.18
 |Game|Project Name|Custom Version|Mappings|
-|--|--|--|
+|--|--|--|--|
 |[Q.U.B.E. 2](https://store.steampowered.com/app/359100/QUBE_2/)|QUBE|
 |[Laser League: World Arena](https://store.steampowered.com/app/570460/Laser_League_World_Arena/)|GameProject|
 |[Burning Daylight](https://store.steampowered.com/app/1052070/Burning_Daylight/)|BurningDaylight|
