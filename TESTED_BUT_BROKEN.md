@@ -18,6 +18,7 @@ The issue is described under the "Issue" header. If you have fixes for these, pl
 |--|--|--|--|
 |[DRAGON QUEST XI: Echoes of an Elusive Age](https://store.steampowered.com/app/742120/DRAGON_QUEST_XI_Echoes_of_an_Elusive_Age__Digital_Edition_of_Light/)|JackGame| |Modified FPakInfo|
 |[A Way Out](https://store.steampowered.com/app/1222700/A_Way_Out/)|Haze1| |Invalid FString length for asset registry|
+|[ACE COMBAT 7: SKIES UNKNOWN](https://store.steampowered.com/app/502500/ACE_COMBAT_7_SKIES_UNKNOWN/)|Nimbus|GAME_AceCombat7|Invalid FString length for asset registry|
 
 ## Unreal Engine 4.21
 |Game|Project Name|Custom Version|Issue|
