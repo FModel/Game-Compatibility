@@ -165,7 +165,6 @@ If you have any of these and can verify their functionality, please open an Issu
 - [Draugen](https://store.steampowered.com/app/770390/Draugen/)
 - [PixARK](https://store.steampowered.com/app/593600/PixARK/)
 - [Trover Saves the Universe](https://store.steampowered.com/app/1051200/Trover_Saves_the_Universe/)
-- [OCTOPATH TRAVELER](https://store.steampowered.com/app/921570/OCTOPATH_TRAVELER/)
 - [Police Simulator: Patrol Duty](https://store.steampowered.com/app/461870/Police_Simulator_Patrol_Duty/)
 - [Wytchsun: Elleros Origins](https://store.steampowered.com/app/1068530/Wytchsun_Elleros_Origins/)
 - [Seen](https://store.steampowered.com/app/1069740/Seen/)
