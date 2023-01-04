@@ -109,6 +109,7 @@
 |Game|Project Name|Custom Version|
 |--|--|--|
 |[ASTRONEER](https://store.steampowered.com/app/361420/ASTRONEER/)|Astro|
+|[Octopath Traveler](https://store.steampowered.com/app/921570/OCTOPATH_TRAVELER/)|Octopath_Traveler|
 
 ## Unreal Engine 4.24
 |Game|Project Name|Custom Version|
