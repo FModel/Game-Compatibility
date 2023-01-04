@@ -169,6 +169,7 @@
 |[The Orville - Interactive Fan Experience](https://store.steampowered.com/app/1096200/The_Orville__Interactive_Fan_Experience/)|OrvilleFanGame|
 |[High On Life](https://store.steampowered.com/app/1583230/High_On_Life/)|Oregon|
 |[Coral Island](https://store.steampowered.com/app/1158160/Coral_Island/)|ProjectCoral|
+|[Rocket League Sideswipe](https://play.google.com/store/apps/details?id=com.Psyonix.RL2D)|RL2D|
 |[HARVESTELLA](https://store.steampowered.com/app/1816300/HARVESTELLA/)|Harvestella| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/Harvestella/Mappings.usmap)|
 |[Crisis Core - Final Fantasy 7 Reunion](https://store.steampowered.com/app/1608070/CRISIS_CORE_FINAL_FANTASY_VII_REUNION/)|CCFF7R| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/CCFF7R/Mappings.usmap)|
 |[DEATHVERSE: LET IT DIE](https://store.steampowered.com/app/1149560/DEATHVERSE_LET_IT_DIE/)|EAGGame| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/DEATHVERSE/Mappings.usmap)
