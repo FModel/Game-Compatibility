@@ -50,3 +50,8 @@ The issue is described under the "Issue" header. If you have fixes for these, pl
 |--|--|--|--|
 |[Battlefield Mobile](https://play.google.com/store/apps/details?id=com.ea.gp.odessa)|Odessa| |Mappings needed (if you have it, please supply it in an issue)|
 |[Brickadia](https://brickadia.com/download)|Brickadia| |Removed directory index|
+
+## Unreal Engine 5.0
+|Game|Project Name|Custom Version|Issue|
+|--|--|--|--|
+|[Evil Nun: The Broken Mask](https://store.steampowered.com/app/1460220/Evil_Nun_The_Broken_Mask/)|Evil_Nun| |BINKA audio format|
