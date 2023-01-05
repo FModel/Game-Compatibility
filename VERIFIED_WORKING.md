@@ -144,6 +144,7 @@
 |[Backbone: Prologue](https://store.steampowered.com/app/992310/Backbone_Prologue/)|Detective|
 |[BATTALION: Legacy](https://store.steampowered.com/app/489940/BATTALION_Legacy/)|Battalion|
 |[Deliver Us The Moon](https://store.steampowered.com/app/428660/Deliver_Us_The_Moon/)|MoonMan|
+|[The Swordsmen X](https://store.steampowered.com/app/840140/_The_Swordsmen_X/)|WuXiaX|
 |[Valorant](https://store.epicgames.com/en-US/p/valorant)|ShooterGame|GAME_Valorant|
 |[Tower of Fantasy](https://store.steampowered.com/app/2064650/Tower_of_Fantasy/)|Hotta|GAME_TowerOfFantasy|
 |[Dauntless](https://store.epicgames.com/en-US/p/dauntless)|Archon|GAME_Dauntless|
