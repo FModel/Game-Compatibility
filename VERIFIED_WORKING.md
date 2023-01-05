@@ -88,6 +88,7 @@
 |[Islands of Nyne: Battle Royale](https://store.steampowered.com/app/728540/Islands_of_Nyne_Battle_Royale/)|IONBranch|
 |[What Never Was](https://store.steampowered.com/app/866440/What_Never_Was/)|WhatNeverWas|
 |[The Dark Pictures Anthology: Man of Medan](https://store.steampowered.com/app/939850/The_Dark_Pictures_Anthology_Man_of_Medan/)|SMG019|
+|[Shurado](https://play.google.com/store/apps/details?id=jp.co.ganbarion.shurado)|ARC|
 |[Borderlands 3](https://store.epicgames.com/en-US/p/borderlands-3)|OakGame|GAME_Borderlands3|
 
 ## Unreal Engine 4.21
