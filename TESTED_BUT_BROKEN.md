@@ -25,6 +25,7 @@ The issue is described under the "Issue" header. If you have fixes for these, pl
 |[Supraland](https://store.steampowered.com/app/813630/Supraland/)|Supraland| |Invalid FString length for Asset Registry|
 |[The Outer Worlds](https://store.steampowered.com/app/578650/The_Outer_Worlds/)|Indiana| |Static Meshes don't load|
 |[Dragon Raja](https://dna.qq.com/web201812/main.shtml)|Azure| |Blueprint errors, material errors|
+|[Undawn](https://lmjx.qq.com/)|Toaa| |modified FPakInfo and custom encryption|
 
 ## Unreal Engine 4.23
 |Game|Project Name|Custom Version|Issue|
