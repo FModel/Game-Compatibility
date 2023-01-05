@@ -76,6 +76,7 @@
 |Game|Project Name|Custom Version|
 |--|--|--|
 |[The Occupation](https://store.steampowered.com/app/765880/The_Occupation/)|TheOccupation|
+|[Bless Unleashed](https://store.steampowered.com/app/1254120/Bless_Unleashed/)|Bless|
 |[Paragon](https://www.unrealengine.com/en-US/paragon)|OrionGame|GAME_Paragon|
 
 ## Unreal Engine 4.20
