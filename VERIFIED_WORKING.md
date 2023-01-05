@@ -68,6 +68,7 @@
 |[UNDEFEATED](https://store.steampowered.com/app/1116960/UNDEFEATED/)|UNDEFEATED|
 |[Yoshi's Crafted World](https://www.nintendo.com/store/products/yoshis-crafted-world-switch/)|PJ033|
 |[A Way Out](https://store.steampowered.com/app/1222700/A_Way_Out/)|Haze1|
+|[Icarus M](https://play.google.com/store/apps/details?id=com.wemadesvc.icarusm)|ICARUS_M|
 |[Kingdom Hearts 3](https://store.epicgames.com/en-US/p/kingdom-hearts-iii)|TresGame|GAME_KingdomHearts3|
 |[ACE COMBAT 7: SKIES UNKNOWN](https://store.steampowered.com/app/502500/ACE_COMBAT_7_SKIES_UNKNOWN/)|Nimbus|GAME_AceCombat7|
 |[FINAL FANTASY VII REMAKE INTERGRADE](https://store.steampowered.com/app/1462040/FINAL_FANTASY_VII_REMAKE_INTERGRADE/)|End|GAME_FinalFantasy7Remake|[Mapping](https://cdn.discordapp.com/attachments/752881317146001559/1058146112525045830/FF7R.usmap)|
