@@ -43,7 +43,6 @@ The issue is described under the "Issue" header. If you have fixes for these, pl
 |--|--|--|--|
 |[Maneater (Microsoft Store)](https://www.xbox.com/en-US/games/store/maneater/9p5b81kvdgp1)|Maneater| |Uses frozen pak indexes|
 |[Blade & Soul](https://www.bladeandsoul.com/)|BNSR| |Skeletal meshes cause CLR error|
-|[Fracked](https://www.playstation.com/en-us/games/fracked/)|Black| |Uses frozen pak indexes|
 |[Life is Strange: True Colors (Microsoft Store)](https://www.xbox.com/en-US/games/store/life-is-strange-true-colors/9nfwsnn4jwkb)|Siren|GAME_UE4_25_Plus|Uses frozen pak indexes|
 |[Divine Knockout](https://store.steampowered.com/app/1294660/Divine_Knockout_DKO/)|DivineKnockout|GAME_RogueCompany|ACL animation fails|
 
