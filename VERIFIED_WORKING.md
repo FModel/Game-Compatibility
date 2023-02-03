@@ -114,7 +114,6 @@
 |[Gigantic X](https://play.google.com/store/apps/details?id=com.ActionSquare.GiganticX)|ProjectG|
 |[Pro Evolution Soccer 20(19/20/21) (Outdated)](https://downzen.com/en/android/pes-2019-pro-evolution-soccer)|PesMobile|
 |[Engage Souls](https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.engagesouls)|EnSouls|
-|[Deliver Us The Moon](https://store.steampowered.com/app/428660/Deliver_Us_The_Moon/)|MoonMan|
 
 ## Unreal Engine 4.23
 |Game|Project Name|Custom Version|
@@ -141,6 +140,7 @@
 |[Lineage W](https://play.google.com/store/apps/details?id=com.ncsoft.lineagew)|LineageR|
 |[Fracked](https://www.playstation.com/en-us/games/fracked/)|Black|
 |[ONE PIECE ODYSSEY](https://store.steampowered.com/app/814000/ONE_PIECE_ODYSSEY/)|odyssey|
+|[Maneater](https://www.xbox.com/en-US/games/store/maneater/9p5b81kvdgp1)|Maneater|
 |[Five Nights at Freddy's: Security Breach](https://store.steampowered.com/app/747660/Five_Nights_at_Freddys_Security_Breach/)|fnaf9|GAME_UE4_25_Plus|
 |[ANVIL](https://store.steampowered.com/app/1487390/ANVIL/)|ANVIL|GAME_UE4_25_Plus|
 |[Rogue Company](https://store.epicgames.com/en-US/p/rogue-company)|RogueCompany|GAME_RogueCompany|
