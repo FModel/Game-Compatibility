@@ -143,6 +143,7 @@
 |[Maneater](https://www.xbox.com/en-US/games/store/maneater/9p5b81kvdgp1)|Maneater|
 |[Five Nights at Freddy's: Security Breach](https://store.steampowered.com/app/747660/Five_Nights_at_Freddys_Security_Breach/)|fnaf9|GAME_UE4_25_Plus|
 |[ANVIL](https://store.steampowered.com/app/1487390/ANVIL/)|ANVIL|GAME_UE4_25_Plus|
+|[Life is Strange: True Colors](https://www.xbox.com/en-US/games/store/life-is-strange-true-colors/9nfwsnn4jwkb)|Siren|GAME_UE4_25_Plus|
 |[Rogue Company](https://store.epicgames.com/en-US/p/rogue-company)|RogueCompany|GAME_RogueCompany|
 
 ## Unreal Engine 4.26
