@@ -42,7 +42,6 @@ The issue is described under the "Issue" header. If you have fixes for these, pl
 |Game|Project Name|Custom Version|Issue|
 |--|--|--|--|
 |[Blade & Soul](https://www.bladeandsoul.com/)|BNSR| |Skeletal meshes cause CLR error|
-|[Life is Strange: True Colors (Microsoft Store)](https://www.xbox.com/en-US/games/store/life-is-strange-true-colors/9nfwsnn4jwkb)|Siren|GAME_UE4_25_Plus|Uses frozen pak indexes|
 |[Divine Knockout](https://store.steampowered.com/app/1294660/Divine_Knockout_DKO/)|DivineKnockout|GAME_RogueCompany|ACL animation fails|
 
 ## Unreal Engine 4.26
