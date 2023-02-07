@@ -214,4 +214,4 @@
 ## Unreal Engine 5.2
 |Game|Project Name|Custom Version|Mappings|
 |--|--|--|--|
-|[Fortnite](https://store.epicgames.com/en-US/p/fortnite)|FortniteGame| |[Mapping](https://fortnitecentral.gmatrixgames.ga/api/v1/mappings)|
+|[Fortnite](https://store.epicgames.com/en-US/p/fortnite)|FortniteGame| |[Mapping](https://fortnitecentral.genxgames.gg/api/v1/mappings)|
