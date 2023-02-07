@@ -198,7 +198,6 @@
 |[Crisis Core - Final Fantasy 7 Reunion](https://store.steampowered.com/app/1608070/CRISIS_CORE_FINAL_FANTASY_VII_REUNION/)|CCFF7R| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/CCFF7R/Mappings.usmap)|
 |[DEATHVERSE: LET IT DIE](https://store.steampowered.com/app/1149560/DEATHVERSE_LET_IT_DIE/)|EAGGame| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/DEATHVERSE/Mappings.usmap)
 |[Splitgate](https://store.steampowered.com/app/677620/Splitgate/)|PortalWars|GAME_Splitgate|
-|[Meet Your Maker](https://store.steampowered.com/app/1194810/Meet_Your_Maker/)|Sanctuary|GAME_MeetYourMaker|
 |[HYENAS](https://store.steampowered.com/app/1989910/HYENAS/)|keaton|GAME_HYENAS|
 
 ## Unreal Engine 5.0
@@ -210,6 +209,7 @@
 |[Dark and Darker](https://store.steampowered.com/app/2016590/Dark_and_Darker/)|DungeonCrawler| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/Dark%20and%20Darker/Mappings.usmap)|
 |[SCP: Fragmented Minds](https://store.steampowered.com/app/1184790/SCP_Fragmented_Minds/)|FragmentedMinds| |[Mapping (Unavailable)]()|
 |[Android Simulator](https://store.steampowered.com/app/1891250/Android_Simulator/)|AndroidSimulator| |[Mapping (Unavailable)]()|
+|[Meet Your Maker](https://store.steampowered.com/app/1194810/Meet_Your_Maker/)|Sanctuary|GAME_MeetYourMaker|[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/Meet%20Your%20Maker/Open%20Beta/Mappings.usmap)|
 
 ## Unreal Engine 5.2
 |Game|Project Name|Custom Version|Mappings|
