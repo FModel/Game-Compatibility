@@ -1,6 +1,6 @@
 # Compatible and verified working (at the time of addition)
 ### Games are sorted by base engine version. CUE4Parse EGame enum value supplied under the "Custom Version" header as some games have custom changes.
-* Please note, any games here are NOT verified to work with the FModel Model Viewer. They are only verified to provide correct and valid data.
+* Please note, any games here are NOT verified to work with the FModel Model Viewer or Audio Player. They are only verified to provide correct and valid data.
 
 ## Unreal Engine 4.8
 |Game|Project Name|Custom Version|
