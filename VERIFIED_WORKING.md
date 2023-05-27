@@ -162,7 +162,7 @@
 |[The Swordsmen X](https://store.steampowered.com/app/840140/_The_Swordsmen_X/)|WuXiaX|
 |[Sunken Century](https://play.google.com/store/apps/details?id=com.klmagic.pirates)|Pirates|
 |[Evangelion Battlefields](https://play.google.com/store/apps/details?id=com.mobcast.games.ebf)|PRJ|
-|[Valorant](https://store.epicgames.com/en-US/p/valorant)|ShooterGame|GAME_Valorant|
+|[Demons Are Crazy](https://store.steampowered.com/app/861050/DemonsAreCrazy/)|DemonsAreCrazy|
 |[Tower of Fantasy](https://store.steampowered.com/app/2064650/Tower_of_Fantasy/)|Hotta|GAME_TowerOfFantasy|
 |[Dauntless](https://store.epicgames.com/en-US/p/dauntless)|Archon|GAME_Dauntless|
 |[GTA Trilogy - Definitive Edition](https://store.rockstargames.com/game/buy-grand-theft-auto-the-trilogy-the-definitive-edition)|Gameface|GAME_GTATheTrilogyDefinitiveEdition|
@@ -195,11 +195,12 @@
 |[Hi-Fi RUSH](https://store.steampowered.com/app/1817230/HiFi_RUSH/)|Hibiki|
 |[SpongeBob SquarePants: The Cosmic Shake](https://store.steampowered.com/app/1282150/SpongeBob_SquarePants_The_Cosmic_Shake/)|CosmicShake|
 |[Ghostwire: Tokyo](https://store.steampowered.com/app/1475810/Ghostwire_Tokyo/)|Snowfall|
+|[Splitgate](https://store.steampowered.com/app/677620/Splitgate/)|PortalWars|GAME_Splitgate|
+|[HYENAS](https://store.steampowered.com/app/1989910/HYENAS/)|keaton|GAME_HYENAS|
+|[VALORANT](https://store.epicgames.com/en-US/p/valorant)|ShooterGame|GAME_Valorant|
 |[HARVESTELLA](https://store.steampowered.com/app/1816300/HARVESTELLA/)|Harvestella| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/Harvestella/Mappings.usmap)|
 |[Crisis Core - Final Fantasy 7 Reunion](https://store.steampowered.com/app/1608070/CRISIS_CORE_FINAL_FANTASY_VII_REUNION/)|CCFF7R| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/CCFF7R/Mappings.usmap)|
 |[DEATHVERSE: LET IT DIE](https://store.steampowered.com/app/1149560/DEATHVERSE_LET_IT_DIE/)|EAGGame| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/DEATHVERSE/Mappings.usmap)
-|[Splitgate](https://store.steampowered.com/app/677620/Splitgate/)|PortalWars|GAME_Splitgate|
-|[HYENAS](https://store.steampowered.com/app/1989910/HYENAS/)|keaton|GAME_HYENAS|
 
 ## Unreal Engine 5.0
 |Game|Project Name|Custom Version|Mappings|
