@@ -49,6 +49,7 @@ The issue is described under the "Issue" header. If you have fixes for these, pl
 |--|--|--|--|
 |[QQ](https://play.google.com/store/apps/details?id=com.tencent.mobileqq)|UE4| |FPakInfo modification|
 |[Scavengers](https://store.steampowered.com/app/1183940/Scavengers/)|Scavenger| |Blueprints and Asset Registry errors & Meshes don't load|
+|[Redfall](https://store.steampowered.com/app/1294810/Redfall/)|Redfall| |Blueprints and Asset Registry errors|
 |[Video Horror Society](https://store.epicgames.com/en-US/p/vhs)|Game|GAME_ReadyOrNot|Alternate pak GUIDs with keys|
 
 ## Unreal Engine 4.27
