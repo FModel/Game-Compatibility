@@ -62,3 +62,8 @@ The issue is described under the "Issue" header. If you have fixes for these, pl
 |Game|Project Name|Custom Version|Issue|
 |--|--|--|--|
 |[Evil Nun: The Broken Mask](https://store.steampowered.com/app/1460220/Evil_Nun_The_Broken_Mask/)|Evil_Nun| |BINKA audio format|
+
+## Unreal Engine 5.1
+|Game|Project Name|Custom Version|Issue|
+|--|--|--|--|
+|[NightCrows](https://play.google.com/store/apps/details?id=com.wemade.nightcrows)|Mad| |Mappings needed (if you have it, please supply it in an issue)|
