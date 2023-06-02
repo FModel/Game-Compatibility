@@ -62,6 +62,7 @@ The issue is described under the "Issue" header. If you have fixes for these, pl
 |Game|Project Name|Custom Version|Issue|
 |--|--|--|--|
 |[Evil Nun: The Broken Mask](https://store.steampowered.com/app/1460220/Evil_Nun_The_Broken_Mask/)|Evil_Nun| |BINKA audio format|
+|[S.T.A.L.K.E.R. 2](https://store.steampowered.com/app/1643320/STALKER_2_Heart_of_Chornobyl/)|Stalker2| |Serialized FString is not null terminated|
 
 ## Unreal Engine 5.1
 |Game|Project Name|Custom Version|Issue|
