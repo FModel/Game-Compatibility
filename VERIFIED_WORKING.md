@@ -173,7 +173,6 @@
 |[Mortal Kombat: Onslaught](https://play.google.com/store/apps/details?id=com.wb.goog.mk.rpg2021)|TNT|GAME_ReadyOrNot|
 |[Torchlight: Infinite](https://store.steampowered.com/app/1974050/Torchlight_Infinite/)|UE_game|GAME_ReadyOrNot|
 |[Stray](https://store.steampowered.com/app/1332010/Stray/)|Hk_project|GAME_ReadyOrNot|
-|[Wayfinder](https://store.steampowered.com/app/1171690/Wayfinder/)|Atlas|GAME_ReadyOrNot|
 |[The Dark Pictures Anthology: The Devil in Me](https://store.steampowered.com/app/1567020/The_Dark_Pictures_Anthology_The_Devil_in_Me/)|SMG028|GAME_ReadyOrNot|
 
 ## Unreal Engine 4.27
@@ -196,6 +195,7 @@
 |[Hi-Fi RUSH](https://store.steampowered.com/app/1817230/HiFi_RUSH/)|Hibiki|
 |[SpongeBob SquarePants: The Cosmic Shake](https://store.steampowered.com/app/1282150/SpongeBob_SquarePants_The_Cosmic_Shake/)|CosmicShake|
 |[Ghostwire: Tokyo](https://store.steampowered.com/app/1475810/Ghostwire_Tokyo/)|Snowfall|
+|[Wayfinder](https://store.steampowered.com/app/1171690/Wayfinder/)|Atlas|
 |[Splitgate](https://store.steampowered.com/app/677620/Splitgate/)|PortalWars|GAME_Splitgate|
 |[HYENAS](https://store.steampowered.com/app/1989910/HYENAS/)|keaton|GAME_HYENAS|
 |[VALORANT](https://store.epicgames.com/en-US/p/valorant)|ShooterGame|GAME_Valorant|
