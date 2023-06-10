@@ -200,7 +200,8 @@
 |[VALORANT](https://store.epicgames.com/en-US/p/valorant)|ShooterGame|GAME_Valorant|
 |[HARVESTELLA](https://store.steampowered.com/app/1816300/HARVESTELLA/)|Harvestella| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/Harvestella/Mappings.usmap)|
 |[Crisis Core - Final Fantasy 7 Reunion](https://store.steampowered.com/app/1608070/CRISIS_CORE_FINAL_FANTASY_VII_REUNION/)|CCFF7R| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/CCFF7R/Mappings.usmap)|
-|[DEATHVERSE: LET IT DIE](https://store.steampowered.com/app/1149560/DEATHVERSE_LET_IT_DIE/)|EAGGame| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/DEATHVERSE/Mappings.usmap)
+|[DEATHVERSE: LET IT DIE](https://store.steampowered.com/app/1149560/DEATHVERSE_LET_IT_DIE/)|EAGGame| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/DEATHVERSE/Mappings.usmap)|
+|[Lies of P](https://store.steampowered.com/app/1627720/Lies_of_P/)|LiesofP| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/Lies%20of%20P/Demo/Mappings.usmap)|
 
 ## Unreal Engine 5.0
 |Game|Project Name|Custom Version|Mappings|
