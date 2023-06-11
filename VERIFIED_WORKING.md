@@ -203,6 +203,7 @@
 |[HYENAS](https://store.steampowered.com/app/1989910/HYENAS/)|keaton|GAME_HYENAS|
 |[VALORANT](https://store.epicgames.com/en-US/p/valorant)|ShooterGame|GAME_Valorant|
 |[Grounded](https://store.steampowered.com/app/962130/Grounded/)|Maine|GAME_Grounded|
+|[The Outlast Trials](https://store.steampowered.com/app/1304930/The_Outlast_Trials/)|OPP|GAME_OutlastTrials|
 |[HARVESTELLA](https://store.steampowered.com/app/1816300/HARVESTELLA/)|Harvestella| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/Harvestella/Mappings.usmap)|
 |[Crisis Core - Final Fantasy 7 Reunion](https://store.steampowered.com/app/1608070/CRISIS_CORE_FINAL_FANTASY_VII_REUNION/)|CCFF7R| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/CCFF7R/Mappings.usmap)|
 |[DEATHVERSE: LET IT DIE](https://store.steampowered.com/app/1149560/DEATHVERSE_LET_IT_DIE/)|EAGGame| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/DEATHVERSE/Mappings.usmap)|
