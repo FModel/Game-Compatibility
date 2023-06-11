@@ -142,6 +142,7 @@
 |[Fracked](https://www.playstation.com/en-us/games/fracked/)|Black|
 |[ONE PIECE ODYSSEY](https://store.steampowered.com/app/814000/ONE_PIECE_ODYSSEY/)|odyssey|
 |[Maneater](https://www.xbox.com/en-US/games/store/maneater/9p5b81kvdgp1)|Maneater|
+|[FFVII The First Soldier](https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7fsjp)|Game|
 |[Five Nights at Freddy's: Security Breach](https://store.steampowered.com/app/747660/Five_Nights_at_Freddys_Security_Breach/)|fnaf9|GAME_UE4_25_Plus|
 |[ANVIL](https://store.steampowered.com/app/1487390/ANVIL/)|ANVIL|GAME_UE4_25_Plus|
 |[Life is Strange: True Colors](https://www.xbox.com/en-US/games/store/life-is-strange-true-colors/9nfwsnn4jwkb)|Siren|GAME_UE4_25_Plus|
