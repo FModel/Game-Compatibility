@@ -168,6 +168,7 @@
 |[Evangelion Battlefields](https://play.google.com/store/apps/details?id=com.mobcast.games.ebf)|PRJ|
 |[Demons Are Crazy](https://store.steampowered.com/app/861050/DemonsAreCrazy/)|DemonsAreCrazy|
 |[Park Beyond](https://store.steampowered.com/app/1368130/Park_Beyond/)|ParkBeyond|
+|[Pikmin 4](https://www.nintendo.com/store/products/pikmin-4-switch/)|Carrot4|
 |[Tower of Fantasy](https://store.steampowered.com/app/2064650/Tower_of_Fantasy/)|Hotta|GAME_TowerOfFantasy|
 |[Dauntless](https://store.epicgames.com/en-US/p/dauntless)|Archon|GAME_Dauntless|
 |[GTA Trilogy - Definitive Edition](https://store.rockstargames.com/game/buy-grand-theft-auto-the-trilogy-the-definitive-edition)|Gameface|GAME_GTATheTrilogyDefinitiveEdition|
