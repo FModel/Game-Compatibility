@@ -223,6 +223,11 @@
 |[Android Simulator](https://store.steampowered.com/app/1891250/Android_Simulator/)|AndroidSimulator| |[Mapping (Unavailable)]()|
 |[Meet Your Maker](https://store.steampowered.com/app/1194810/Meet_Your_Maker/)|Sanctuary|GAME_MeetYourMaker|[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/Meet%20Your%20Maker/Open%20Beta/Mappings.usmap)|
 
+## Unreal Engine 5.1
+|Game|Project Name|Custom Version|Mappings|
+|--|--|--|--|
+|[Palia](https://palia.com/)|Palia| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/Palia/Open%20Beta/Mappings.usmap)|
+
 ## Unreal Engine 5.2
 |Game|Project Name|Custom Version|Mappings|
 |--|--|--|--|
