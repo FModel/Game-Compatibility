@@ -67,5 +67,6 @@ The issue is described under the "Issue" header. If you have fixes for these, pl
 ## Unreal Engine 5.1
 |Game|Project Name|Custom Version|Issue|Mappings|
 |--|--|--|--|--|
-|[Winterfest Wonderland]()|HalfWinterfestGame| |BINKA audio format|[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/WinterfestWonderland.usmap)
 |[NightCrows](https://play.google.com/store/apps/details?id=com.wemade.nightcrows)|Mad| |Mappings needed (if you have it, please supply it in an issue)|
+|[Winterfest Wonderland](https://github.com/halfuwu/halfheart.dev/raw/master/docs/WinterfestWonderland.zip)|HalfWinterfestGame| |BINKA audio format|[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/WinterfestWonderland.usmap)|
+|[The Complex: Found Footage](https://store.steampowered.com/app/1942120/The_Complex_Found_Footage/)|TheComplexFF| |BINKA audio format|[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/The%20Complex%20Found%20Footage.usmap)|
