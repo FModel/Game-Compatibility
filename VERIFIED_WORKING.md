@@ -135,6 +135,7 @@
 |[KurtzPel](https://store.steampowered.com/app/844870/KurtzPel/)|TheChase|
 |[Empires of the Undergrowth](https://store.steampowered.com/app/463530/Empires_of_the_Undergrowth/)|EotU|
 |[THE IDOLM@STER STARLIT SEASON](https://store.steampowered.com/app/1046480/THE_IDOLMSTER_STARLIT_SEASON/)|imal|
+|[Ghostrunner](https://store.steampowered.com/app/1139900/Ghostrunner/)|Ghostrunner|
 
 ## Unreal Engine 4.25
 |Game|Project Name|Custom Version|
