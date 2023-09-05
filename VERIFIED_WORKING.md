@@ -93,6 +93,7 @@
 |[Shurado](https://play.google.com/store/apps/details?id=jp.co.ganbarion.shurado)|ARC|
 |[MAD8 : Raid Battle](https://play.google.com/store/apps/details?id=com.trypotstudios.mad8)|TryPotA|
 |[Tales of Arise](https://store.steampowered.com/app/740130/Tales_of_Arise/)|Arise|
+|[Hellbound: Survival Mode (Classic)](https://store.steampowered.com/app/802200/Hellbound_Survival_Mode/)|Hellbound|
 |[Borderlands 3](https://store.epicgames.com/en-US/p/borderlands-3)|OakGame|GAME_Borderlands3|
 
 ## Unreal Engine 4.21
@@ -125,6 +126,7 @@
 |[Five Nights at Freddy's: Help Wanted](https://store.steampowered.com/app/732690/FIVE_NIGHTS_AT_FREDDYS_HELP_WANTED/)|freddys|
 |[3on3 FreeStyle: Rebound](https://store.steampowered.com/app/1292630/3on3_FreeStyle_Rebound/)|DoubleClutch|
 |[BLUE PROTOCOL](https://store.steampowered.com/app/2139230/BLUE_PROTOCOL/)|BLUEPROTOCOL|
+|[Hellbound: Survival Mode (Remaster)](https://store.steampowered.com/app/802200/Hellbound_Survival_Mode/)|Hellbound|
 
 ## Unreal Engine 4.24
 |Game|Project Name|Custom Version|
