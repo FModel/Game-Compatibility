@@ -184,6 +184,7 @@
 |[Pikmin 4](https://www.nintendo.com/store/products/pikmin-4-switch/)|Carrot4|
 |[Ghostrunner](https://store.steampowered.com/app/1139900/Ghostrunner/)|Ghostrunner|
 |[VR Paradise](https://store.steampowered.com/app/896890/VR_Paradise__Steam_Edition/)|VRParadise|
+|[HYPERCHARGE: Unboxed (Demo)](https://store.steampowered.com/app/523660/HYPERCHARGE_Unboxed/)|Unboxed|
 |[Tower of Fantasy](https://store.steampowered.com/app/2064650/Tower_of_Fantasy/)|Hotta|GAME_TowerOfFantasy|
 |[Dauntless](https://store.epicgames.com/en-US/p/dauntless)|Archon|GAME_Dauntless|
 |[GTA Trilogy - Definitive Edition](https://store.rockstargames.com/game/buy-grand-theft-auto-the-trilogy-the-definitive-edition)|Gameface|GAME_GTATheTrilogyDefinitiveEdition|
