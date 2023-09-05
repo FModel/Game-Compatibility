@@ -143,6 +143,7 @@
 |[Empires of the Undergrowth](https://store.steampowered.com/app/463530/Empires_of_the_Undergrowth/)|EotU|
 |[THE IDOLM@STER STARLIT SEASON](https://store.steampowered.com/app/1046480/THE_IDOLMSTER_STARLIT_SEASON/)|imal|
 |[Walking Simulator 2020](https://store.steampowered.com/app/1214280/Walking_Simulator/)|WalkingSimulator2020|
+|[Operencia: The Stolen Sun](https://store.steampowered.com/app/985950/Operencia_The_Stolen_Sun/)|Operencia|
 
 ## Unreal Engine 4.25
 |Game|Project Name|Custom Version|
