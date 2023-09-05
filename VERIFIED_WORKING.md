@@ -108,6 +108,7 @@
 |[Last Year](https://store.steampowered.com/app/1195460/Last_Year/)|LastYear|
 |[DRAGON BALL Z: KAKAROT](https://store.steampowered.com/app/851850/DRAGON_BALL_Z_KAKAROT/)|AT|
 |[MY HERO ONE'S JUSTICE 2](https://store.steampowered.com/app/1058450/MY_HERO_ONES_JUSTICE_2/)|HeroGame|
+|[Drug Dealer Simulator](https://store.steampowered.com/app/682990/Drug_Dealer_Simulator/)|DrugDealerSimulator|
 
 ## Unreal Engine 4.22
 |Game|Project Name|Custom Version|
