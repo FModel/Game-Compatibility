@@ -78,6 +78,7 @@
 |--|--|--|
 |[The Occupation](https://store.steampowered.com/app/765880/The_Occupation/)|TheOccupation|
 |[Bless Unleashed](https://store.steampowered.com/app/1254120/Bless_Unleashed/)|Bless|
+|[The Beast Inside](https://store.steampowered.com/app/792300/The_Beast_Inside/)|TheBeastInside|
 |[Paragon](https://www.unrealengine.com/en-US/paragon)|OrionGame|GAME_Paragon|
 
 ## Unreal Engine 4.20
