@@ -150,6 +150,7 @@
 |[ONE PIECE ODYSSEY](https://store.steampowered.com/app/814000/ONE_PIECE_ODYSSEY/)|odyssey|
 |[Maneater](https://www.xbox.com/en-US/games/store/maneater/9p5b81kvdgp1)|Maneater|
 |[FFVII The First Soldier](https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7fsjp)|Game|
+|[Builders of Egypt: Prologue](https://store.steampowered.com/app/1207590/Builders_of_Egypt_Prologue/)|BoE|
 |[ANVIL](https://store.steampowered.com/app/1487390/ANVIL/)|ANVIL|GAME_UE4_25_Plus|
 |[Life is Strange: True Colors](https://www.xbox.com/en-US/games/store/life-is-strange-true-colors/9nfwsnn4jwkb)|Siren|GAME_UE4_25_Plus|
 |[Rogue Company](https://store.epicgames.com/en-US/p/rogue-company)|RogueCompany|GAME_RogueCompany|
