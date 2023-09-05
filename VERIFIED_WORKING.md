@@ -252,6 +252,7 @@
 |[Remnant II](https://store.steampowered.com/app/1282100/Remnant_II/)|Remnant2| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/Remnant%202/Mappings.usmap)|
 |[Marbles on Stream](https://store.steampowered.com/app/1170970/Marbles_on_Stream/)|MarblesOnStream| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/Marbles%20on%20Stream.usmap)|
 |[POLYGON](https://store.steampowered.com/app/1241100/POLYGON/)|POLYGON| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/POLYGON.usmap)|
+|[KARDS - The WW2 Card Game](https://store.steampowered.com/app/544810/KARDS__The_WW2_Card_Game/)|kards| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/Kards.usmap)|
 
 ## Unreal Engine 5.3
 |Game|Project Name|Custom Version|Mappings|
