@@ -216,6 +216,7 @@
 ## Unreal Engine 5.0
 |Game|Project Name|Custom Version|Mappings|
 |--|--|--|--|
+|[Evil Nun: The Broken Mask](https://store.steampowered.com/app/1460220/Evil_Nun_The_Broken_Mask/)|Evil_Nun|
 |[Kitty May Cry](https://store.steampowered.com/app/2123100/Kitty_May_Cry/)|KittyMayCry|
 |[Petals](https://petalsgame.itch.io/petals)|Petals| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/Petals/Mappings.usmap)|
 |[Predecessor](https://store.epicgames.com/en-US/p/predecessor)|Predecessor| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/Predecessor/Mappings.usmap)|
@@ -228,6 +229,8 @@
 |Game|Project Name|Custom Version|Mappings|
 |--|--|--|--|
 |[Palia](https://palia.com/)|Palia| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/Palia/Open%20Beta/Mappings.usmap)|
+|[Winterfest Wonderland](https://github.com/halfuwu/halfheart.dev/raw/master/docs/WinterfestWonderland.zip)|HalfWinterfestGame| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/WinterfestWonderland.usmap)|
+|[The Complex: Found Footage](https://store.steampowered.com/app/1942120/The_Complex_Found_Footage/)|TheComplexFF| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/The%20Complex%20Found%20Footage.usmap)|
 
 ## Unreal Engine 5.2
 |Game|Project Name|Custom Version|Mappings|
