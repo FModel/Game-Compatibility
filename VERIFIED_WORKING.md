@@ -122,6 +122,7 @@
 |[Gigantic X](https://play.google.com/store/apps/details?id=com.ActionSquare.GiganticX)|ProjectG|
 |[Pro Evolution Soccer 20(19/20/21) (Outdated)](https://downzen.com/en/android/pes-2019-pro-evolution-soccer)|PesMobile|
 |[Engage Souls](https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.engagesouls)|EnSouls|
+|[Trials of Mana](https://store.steampowered.com/app/924980/Trials_of_Mana/)|Trials of Mana|
 
 ## Unreal Engine 4.23
 |Game|Project Name|Custom Version|
