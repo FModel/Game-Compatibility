@@ -95,6 +95,7 @@
 |[MAD8 : Raid Battle](https://play.google.com/store/apps/details?id=com.trypotstudios.mad8)|TryPotA|
 |[Tales of Arise](https://store.steampowered.com/app/740130/Tales_of_Arise/)|Arise|
 |[Hellbound: Survival Mode (Classic)](https://store.steampowered.com/app/802200/Hellbound_Survival_Mode/)|Hellbound|
+|[Barn Finders](https://store.steampowered.com/app/991170/Barn_Finders/)|BarnFinders|
 |[Borderlands 3](https://store.epicgames.com/en-US/p/borderlands-3)|OakGame|GAME_Borderlands3|
 
 ## Unreal Engine 4.21
