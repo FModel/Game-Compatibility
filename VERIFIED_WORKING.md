@@ -157,6 +157,7 @@
 |[SUCCUBUS: Prologue](https://store.steampowered.com/app/1344350/SUCCUBUS_Prologue/)|Succubus|
 |[Propagation VR](https://store.steampowered.com/app/1363430/Propagation_VR/)|PropagationSteam|
 |[Xuan-Yuan Sword VII (Demo)](https://store.steampowered.com/app/1249800/XuanYuan_Sword_VII/)|SWD7_Demo|
+|[The Dark Pictures Anthology: Little Hope](https://store.steampowered.com/app/1194630/The_Dark_Pictures_Anthology_Little_Hope/)|SMG024|
 
 ## Unreal Engine 4.25
 |Game|Project Name|Custom Version|
