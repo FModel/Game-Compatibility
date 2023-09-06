@@ -38,6 +38,11 @@ The issue is described under the "Issue" header. If you have fixes for these, pl
 |[Shin Megami Tensei V](https://www.nintendo.com/store/products/shin-megami-tensei-v-switch/)|Project| |Invalid FString length for Asset Registry|
 |[Apex Legends Mobile](https://play.google.com/store/apps/details?id=com.ea.gp.apexlegendsmobilefps)|AClient|GAME_ApexLegendsMobile|Meshes don't load|
 
+## Unreal Engine 4.24
+|Game|Project Name|Custom Version|Issue|
+|--|--|--|--|
+|[Devolverland Expo](https://store.steampowered.com/app/1283220/Devolverland_Expo/)|Devolverland_Expo| |Skeletal Mesh fails|
+
 ## Unreal Engine 4.25
 |Game|Project Name|Custom Version|Issue|
 |--|--|--|--|
