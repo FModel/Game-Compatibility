@@ -24,6 +24,11 @@ The issue is described under the "Issue" header. If you have fixes for these, pl
 |--|--|--|--|
 |[DRAGON QUEST XI: Echoes of an Elusive Age](https://store.steampowered.com/app/742120/DRAGON_QUEST_XI_Echoes_of_an_Elusive_Age__Digital_Edition_of_Light/)|JackGame| |Modified FPakInfo|
 
+## Unreal Engine 4.20
+|Game|Project Name|Custom Version|Issue|
+|--|--|--|--|
+|[Tell Me Why](https://store.steampowered.com/app/1180660/Tell_Me_Why/)|TME| |Skeletal Meshes|
+
 ## Unreal Engine 4.21
 |Game|Project Name|Custom Version|Issue|
 |--|--|--|--|
