@@ -155,6 +155,7 @@
 |[Walking Simulator 2020](https://store.steampowered.com/app/1214280/Walking_Simulator/)|WalkingSimulator2020|
 |[Operencia: The Stolen Sun](https://store.steampowered.com/app/985950/Operencia_The_Stolen_Sun/)|Operencia|
 |[SUCCUBUS: Prologue](https://store.steampowered.com/app/1344350/SUCCUBUS_Prologue/)|Succubus|
+|[Propagation VR](https://store.steampowered.com/app/1363430/Propagation_VR/)|PropagationSteam|
 
 ## Unreal Engine 4.25
 |Game|Project Name|Custom Version|
