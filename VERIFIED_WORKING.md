@@ -230,6 +230,7 @@
 |[Wayfinder](https://store.steampowered.com/app/1171690/Wayfinder/)|Atlas|
 |[Five Nights at Freddy's: Security Breach](https://store.steampowered.com/app/747660/Five_Nights_at_Freddys_Security_Breach/)|fnaf9|
 |[Breeders of the Nephelym: Alpha](https://store.steampowered.com/app/1161770/Breeders_of_the_Nephelym_Alpha/)|OBF|
+|[Scribble It!](https://store.steampowered.com/app/1088150/Scribble_It/)|ScribbleIt|
 |[Splitgate](https://store.steampowered.com/app/677620/Splitgate/)|PortalWars|GAME_Splitgate|
 |[HYENAS](https://store.steampowered.com/app/1989910/HYENAS/)|keaton|GAME_HYENAS|
 |[VALORANT](https://store.epicgames.com/en-US/p/valorant)|ShooterGame|GAME_Valorant|
