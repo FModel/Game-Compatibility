@@ -53,6 +53,7 @@ The issue is described under the "Issue" header. If you have fixes for these, pl
 |--|--|--|--|
 |[Blade & Soul](https://www.bladeandsoul.com/)|BNSR|GAME_BladeAndSoul|Serialized FString is not null terminated|
 |[Divine Knockout](https://store.steampowered.com/app/1294660/Divine_Knockout_DKO/)|DivineKnockout|GAME_RogueCompany|ACL animation fails|
+|[SYNCED](https://store.steampowered.com/app/1008080/SYNCED/)|ArkGame|GAME_SYNCED|Static meshes|
 
 ## Unreal Engine 4.26
 |Game|Project Name|Custom Version|Issue|
