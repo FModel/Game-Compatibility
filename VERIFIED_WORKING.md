@@ -205,7 +205,7 @@
 |[Ready or Not](https://store.steampowered.com/app/1144200/Ready_or_Not/)|ReadyOrNot|GAME_ReadyOrNot|
 |[Rumbleverse](https://store.epicgames.com/en-US/p/rumbleverse)|Rumbleverse|GAME_ReadyOrNot|
 |[Mortal Kombat: Onslaught](https://play.google.com/store/apps/details?id=com.wb.goog.mk.rpg2021)|TNT|GAME_ReadyOrNot|
-|[Torchlight: Infinite](https://store.steampowered.com/app/1974050/Torchlight_Infinite/)|UE_game|GAME_ReadyOrNot|
+|[Torchlight: Infinite](https://store.steampowered.com/app/1974050/Torchlight_Infinite/)|UE_game|GAME_TorchlightInfinite|
 |[Stray](https://store.steampowered.com/app/1332010/Stray/)|Hk_project|GAME_ReadyOrNot|
 |[The Dark Pictures Anthology: The Devil in Me](https://store.steampowered.com/app/1567020/The_Dark_Pictures_Anthology_The_Devil_in_Me/)|SMG028|GAME_ReadyOrNot|
 
