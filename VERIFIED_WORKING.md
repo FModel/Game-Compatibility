@@ -234,6 +234,7 @@
 |[Breeders of the Nephelym: Alpha](https://store.steampowered.com/app/1161770/Breeders_of_the_Nephelym_Alpha/)|OBF|
 |[Scribble It!](https://store.steampowered.com/app/1088150/Scribble_It/)|ScribbleIt|
 |[PAYDAY 3](https://store.steampowered.com/app/1272080/PAYDAY_3/)|PAYDAY3|
+|[MY HERO ULTRA RUMBLE](https://store.steampowered.com/app/1607250/MY_HERO_ULTRA_RUMBLE/)|HerovsGame|
 |[Splitgate](https://store.steampowered.com/app/677620/Splitgate/)|PortalWars|GAME_Splitgate|
 |[HYENAS](https://store.steampowered.com/app/1989910/HYENAS/)|keaton|GAME_HYENAS|
 |[VALORANT](https://store.epicgames.com/en-US/p/valorant)|ShooterGame|GAME_Valorant|
