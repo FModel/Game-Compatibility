@@ -215,7 +215,6 @@
 ## Unreal Engine 4.27
 |Game|Project Name|Custom Version|Mappings|
 |--|--|--|--|
-|[Dead by Daylight](https://store.epicgames.com/en-US/p/dead-by-daylight)|DeadByDaylight|
 |[Hello Neighbor 2](https://store.steampowered.com/app/1321680/Hello_Neighbor_2/)|HelloNeighbor2|
 |[Paragon: The Overprime](https://store.epicgames.com/en-US/p/paragon-the-overprime-0bca60)|Overprime|
 |[The Anacrusis](https://store.steampowered.com/app/1120480/The_Anacrusis/)|Anacrusis|
@@ -276,6 +275,7 @@
 |[POLYGON](https://store.steampowered.com/app/1241100/POLYGON/)|POLYGON| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/POLYGON.usmap)|
 |[KARDS - The WW2 Card Game](https://store.steampowered.com/app/544810/KARDS__The_WW2_Card_Game/)|kards| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/Kards.usmap)|
 |[Outerstellar](https://store.steampowered.com/app/1170940/Outerstellar/)|SpaceBuilder| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/Outerstellar%20(Playtest).usmap)
+|[Dead by Daylight](https://store.steampowered.com/app/381210/Dead_by_Daylight/)|DeadByDaylight|GAME_DeadByDaylight|Updated too often for static|
 
 ## Unreal Engine 5.4
 |Game|Project Name|Custom Version|Mappings|
