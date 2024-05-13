@@ -137,7 +137,6 @@
 |[ASTRONEER](https://store.steampowered.com/app/361420/ASTRONEER/)|Astro|
 |[Octopath Traveler](https://store.steampowered.com/app/921570/OCTOPATH_TRAVELER/)|Octopath_Traveler|
 |[Five Nights at Freddy's: Help Wanted](https://store.steampowered.com/app/732690/FIVE_NIGHTS_AT_FREDDYS_HELP_WANTED/)|freddys|
-|[3on3 FreeStyle: Rebound](https://store.steampowered.com/app/1292630/3on3_FreeStyle_Rebound/)|DoubleClutch|
 |[BLUE PROTOCOL](https://store.steampowered.com/app/2139230/BLUE_PROTOCOL/)|BLUEPROTOCOL|
 |[Hellbound: Survival Mode (Remaster)](https://store.steampowered.com/app/802200/Hellbound_Survival_Mode/)|Hellbound|
 |[We Went Back](https://store.steampowered.com/app/1218250/We_Went_Back/)|WeWentBack|
@@ -266,6 +265,8 @@
 |[Winterfest Wonderland](https://github.com/halfuwu/halfheart.dev/raw/master/docs/WinterfestWonderland.zip)|HalfWinterfestGame| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/WinterfestWonderland.usmap)|
 |[The Complex: Found Footage](https://store.steampowered.com/app/1942120/The_Complex_Found_Footage/)|TheComplexFF| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/The%20Complex%20Found%20Footage.usmap)|
 |[Karagon (Demo)](https://store.steampowered.com/app/1818610/Karagon_Survival_Robot_Riding_FPS/)|NewKaragon| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/Karagon%20(Demo).usmap)
+|[Lords of the Fallen](https://store.steampowered.com/app/1501750/Lords_of_the_Fallen/)|LOTF2| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/Lords%20of%20the%20Fallen.usmap)|
+|[3on3 FreeStyle: Rebound](https://store.steampowered.com/app/1292630/3on3_FreeStyle_Rebound/)|DoubleClutch|GAME_3on3FreeStyleRebound|[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/3on3%20FreeStyle%20Rebound.usmap)|
 
 ## Unreal Engine 5.2
 |Game|Project Name|Custom Version|Mappings|
