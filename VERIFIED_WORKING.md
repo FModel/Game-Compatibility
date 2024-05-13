@@ -265,6 +265,7 @@
 |[Palia](https://palia.com/)|Palia| |[Mapping](https://github.com/OutTheShade/Unreal-Mappings-Archive/raw/main/Palia/Open%20Beta/Mappings.usmap)|
 |[Winterfest Wonderland](https://github.com/halfuwu/halfheart.dev/raw/master/docs/WinterfestWonderland.zip)|HalfWinterfestGame| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/WinterfestWonderland.usmap)|
 |[The Complex: Found Footage](https://store.steampowered.com/app/1942120/The_Complex_Found_Footage/)|TheComplexFF| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/The%20Complex%20Found%20Footage.usmap)|
+|[Karagon (Demo)](https://store.steampowered.com/app/1818610/Karagon_Survival_Robot_Riding_FPS/)|NewKaragon| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/Karagon%20(Demo).usmap)
 
 ## Unreal Engine 5.2
 |Game|Project Name|Custom Version|Mappings|
