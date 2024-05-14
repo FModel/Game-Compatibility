@@ -47,6 +47,7 @@
 |[Home Sweet Home](https://store.steampowered.com/app/617160/Home_Sweet_Home/)|HomeSweetHome|
 |[Fog Of War](https://store.steampowered.com/app/691020/Fog_Of_War__Free_Edition/)|Battalion_Beta|
 |[ZomDay (Demo)](https://store.steampowered.com/app/681390/ZomDay/)|ZomDay_Demo|
+|[Hellblade: Senua's Sacrifice](https://store.steampowered.com/app/414340/Hellblade_Senuas_Sacrifice/)|HellbladeGame|
 
 ## Unreal Engine 4.16
 |Game|Project Name|Custom Version|
@@ -266,6 +267,7 @@
 |[The Complex: Found Footage](https://store.steampowered.com/app/1942120/The_Complex_Found_Footage/)|TheComplexFF| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/The%20Complex%20Found%20Footage.usmap)|
 |[Karagon (Demo)](https://store.steampowered.com/app/1818610/Karagon_Survival_Robot_Riding_FPS/)|NewKaragon| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/Karagon%20(Demo).usmap)
 |[Lords of the Fallen](https://store.steampowered.com/app/1501750/Lords_of_the_Fallen/)|LOTF2| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/Lords%20of%20the%20Fallen.usmap)|
+|[Cosmotots](https://store.steampowered.com/app/2907680/Cosmotots/)|LyraStarterGame| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/Cosmotots.usmap)|
 |[3on3 FreeStyle: Rebound](https://store.steampowered.com/app/1292630/3on3_FreeStyle_Rebound/)|DoubleClutch|GAME_3on3FreeStyleRebound|[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/3on3%20FreeStyle%20Rebound.usmap)|
 
 ## Unreal Engine 5.2
@@ -276,7 +278,15 @@
 |[POLYGON](https://store.steampowered.com/app/1241100/POLYGON/)|POLYGON| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/POLYGON.usmap)|
 |[KARDS - The WW2 Card Game](https://store.steampowered.com/app/544810/KARDS__The_WW2_Card_Game/)|kards| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/Kards.usmap)|
 |[Outerstellar](https://store.steampowered.com/app/1170940/Outerstellar/)|SpaceBuilder| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/Outerstellar%20(Playtest).usmap)
+|[Hunter Beat](https://store.steampowered.com/app/2812490/Hunter_Beat/)|DuckHunt| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/Hunter%20Beat.usmap)|
 |[Dead by Daylight](https://store.steampowered.com/app/381210/Dead_by_Daylight/)|DeadByDaylight|GAME_DeadByDaylight|Updated too often for static|
+
+## Unreal Engine 5.3
+|Game|Project Name|Custom Version|Mappings|
+|--|--|--|--|
+|[Le Dernier Don](https://store.steampowered.com/app/2940870/Le_Dernier_Don/)|EchoesDespair| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/Le%20Dernier%20Don.usmap)|
+|[Mind The Abyss (Early Access)](https://store.steampowered.com/app/2937340/Mind_The_Abyss/)|ProjectAbyssBP| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/Mind%20The%20Abyss%20(Early%20Access).usmap)|
+|[What The Fog](https://store.steampowered.com/app/2139020/What_the_Fog/)|WhatTheFog| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/What%20The%20Fog.usmap)|
 
 ## Unreal Engine 5.4
 |Game|Project Name|Custom Version|Mappings|
