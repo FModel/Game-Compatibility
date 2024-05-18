@@ -268,6 +268,7 @@
 |[Karagon (Demo)](https://store.steampowered.com/app/1818610/Karagon_Survival_Robot_Riding_FPS/)|NewKaragon| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/Karagon%20(Demo).usmap)
 |[Lords of the Fallen](https://store.steampowered.com/app/1501750/Lords_of_the_Fallen/)|LOTF2| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/Lords%20of%20the%20Fallen.usmap)|
 |[Cosmotots](https://store.steampowered.com/app/2907680/Cosmotots/)|LyraStarterGame| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/Cosmotots.usmap)|
+|[Indigo Park: Chapter 1](https://store.steampowered.com/app/2504480/Indigo_Park_Chapter_1/)|Racoon| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/Indigo%20Park%20Chapter%201.usmap)|
 |[3on3 FreeStyle: Rebound](https://store.steampowered.com/app/1292630/3on3_FreeStyle_Rebound/)|DoubleClutch|GAME_3on3FreeStyleRebound|[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/3on3%20FreeStyle%20Rebound.usmap)|
 
 ## Unreal Engine 5.2
