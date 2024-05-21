@@ -288,6 +288,7 @@
 |[Le Dernier Don](https://store.steampowered.com/app/2940870/Le_Dernier_Don/)|EchoesDespair| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/Le%20Dernier%20Don.usmap)|
 |[Mind The Abyss (Early Access)](https://store.steampowered.com/app/2937340/Mind_The_Abyss/)|ProjectAbyssBP| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/Mind%20The%20Abyss%20(Early%20Access).usmap)|
 |[What The Fog](https://store.steampowered.com/app/2139020/What_the_Fog/)|WhatTheFog| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/What%20The%20Fog.usmap)|
+|[Marvel Rivals](https://store.steampowered.com/app/2767030/Marvel_Rivals/)|Marvel|GAME_MarvelRivals|Updated too often for static|
 
 ## Unreal Engine 5.4
 |Game|Project Name|Custom Version|Mappings|
