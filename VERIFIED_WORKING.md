@@ -237,6 +237,7 @@
 |[Scribble It!](https://store.steampowered.com/app/1088150/Scribble_It/)|ScribbleIt|
 |[PAYDAY 3](https://store.steampowered.com/app/1272080/PAYDAY_3/)|PAYDAY3|
 |[MY HERO ULTRA RUMBLE](https://store.steampowered.com/app/1607250/MY_HERO_ULTRA_RUMBLE/)|HerovsGame|
+|[Alpha League (Game & Launcher)](https://store.steampowered.com/app/2684500/Alpha_League/)|AlphaLeague|
 |[Splitgate](https://store.steampowered.com/app/677620/Splitgate/)|PortalWars|GAME_Splitgate|
 |[HYENAS](https://store.steampowered.com/app/1989910/HYENAS/)|keaton|GAME_HYENAS|
 |[VALORANT](https://store.epicgames.com/en-US/p/valorant)|ShooterGame|GAME_Valorant|
@@ -279,8 +280,9 @@
 |[Marbles on Stream](https://store.steampowered.com/app/1170970/Marbles_on_Stream/)|MarblesOnStream| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/Marbles%20on%20Stream.usmap)|
 |[POLYGON](https://store.steampowered.com/app/1241100/POLYGON/)|POLYGON| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/POLYGON.usmap)|
 |[KARDS - The WW2 Card Game](https://store.steampowered.com/app/544810/KARDS__The_WW2_Card_Game/)|kards| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/Kards.usmap)|
-|[Outerstellar](https://store.steampowered.com/app/1170940/Outerstellar/)|SpaceBuilder| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/Outerstellar%20(Playtest).usmap)
+|[Outerstellar](https://store.steampowered.com/app/1170940/Outerstellar/)|SpaceBuilder| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/Outerstellar%20(Playtest).usmap)|
 |[Hunter Beat](https://store.steampowered.com/app/2812490/Hunter_Beat/)|DuckHunt| |[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/Hunter%20Beat.usmap)|
+|[The First Descendent](https://store.steampowered.com/app/2074920/The_First_Descendant/)|M1|GAME_TheFirstDescendent|[Mapping](https://github.com/GMatrixGames/TempMappingsRepo/raw/master/The%20First%20Descendent.usmap)|
 |[Dead by Daylight](https://store.steampowered.com/app/381210/Dead_by_Daylight/)|DeadByDaylight|GAME_DeadByDaylight|Updated too often for static|
 
 ## Unreal Engine 5.3
